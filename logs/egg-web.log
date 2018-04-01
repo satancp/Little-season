@@ -1,0 +1,1377 @@
+2018-03-21 10:11:07,628 INFO 31896 [egg-logrotator] app logger reload: got log-reload message
+2018-03-21 10:11:07,630 INFO 31895 [egg-logrotator] app logger reload: got log-reload message
+2018-03-21 10:11:07,629 INFO 31893 [egg-logrotator] app logger reload: got log-reload message
+2018-03-21 10:11:07,630 INFO 31897 [egg-logrotator] app logger reload: got log-reload message
+2018-03-21 10:11:07,631 INFO 31892 [egg-logrotator] app logger reload: got log-reload message
+2018-03-21 10:11:07,631 INFO 31898 [egg-logrotator] app logger reload: got log-reload message
+2018-03-21 10:11:07,631 INFO 31894 [egg-logrotator] app logger reload: got log-reload message
+2018-03-21 10:11:07,630 INFO 31891 [egg-logrotator] app logger reload: got log-reload message
+2018-03-21 19:25:19,497 WARN 31898 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-21 19:25:19,478 WARN 31893 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-21 19:25:19,491 WARN 31896 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-21 19:25:19,483 WARN 31894 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-21 19:25:19,508 WARN 31892 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-21 19:25:19,492 WARN 31895 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-21 19:25:19,496 WARN 31897 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-21 19:25:19,497 WARN 31891 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-21 22:03:44,582 WARN 31893 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-21 22:03:44,582 WARN 31894 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-21 22:03:44,582 WARN 31898 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-21 22:03:44,582 WARN 31892 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-21 22:03:44,582 WARN 31897 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-21 23:51:49,285 WARN 31893 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-21 23:51:49,286 WARN 31895 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-21 23:51:49,286 WARN 31891 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-21 23:51:49,285 WARN 31894 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-21 23:51:49,285 WARN 31898 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-21 23:51:49,285 WARN 31896 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-21 23:51:49,286 WARN 31892 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-21 23:51:49,286 WARN 31897 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-22 00:04:00,743 WARN 31895 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-22 00:04:00,743 WARN 31892 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-22 00:04:00,742 WARN 31893 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-22 00:04:00,743 WARN 31897 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-22 00:04:00,743 WARN 31894 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-22 01:04:55,499 WARN 31893 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-22 01:04:55,501 WARN 31891 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-03-22 01:04:55,522 WARN 31891 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-22 01:04:55,500 WARN 31894 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-03-22 01:04:55,522 WARN 31894 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-22 01:45:03,237 WARN 31898 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-22 01:45:03,237 WARN 31895 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-22 01:45:03,237 WARN 31892 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-22 01:45:03,239 WARN 31896 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-22 04:03:23,547 WARN 31891 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-22 04:03:23,547 WARN 31894 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-22 04:03:23,548 WARN 31896 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-22 04:03:23,547 WARN 31893 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-22 04:03:23,547 WARN 31895 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-22 04:03:23,547 WARN 31892 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-22 04:03:23,548 WARN 31898 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-22 05:02:39,309 WARN 31896 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-22 05:02:39,309 WARN 31893 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-22 05:02:39,308 WARN 31895 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-22 05:02:39,308 WARN 31894 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-22 05:02:39,309 WARN 31898 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-22 05:02:39,309 WARN 31897 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-22 05:02:39,308 WARN 31891 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-22 06:47:09,059 WARN 31896 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-03-22 06:47:09,059 WARN 31896 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-22 06:47:09,057 WARN 31894 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-03-22 06:47:09,057 WARN 31894 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-22 06:47:09,058 WARN 31898 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-03-22 06:47:09,059 WARN 31898 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-22 06:47:09,057 WARN 31892 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-03-22 06:47:09,059 WARN 31892 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-22 06:47:09,059 WARN 31897 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-22 06:47:09,058 WARN 31893 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-03-22 06:47:09,059 WARN 31893 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-22 09:31:16,423 WARN 31893 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-22 09:31:16,423 WARN 31895 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-22 09:31:16,423 WARN 31891 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-22 09:31:16,423 WARN 31896 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-22 09:31:16,423 WARN 31894 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-22 09:31:16,423 WARN 31897 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-23 17:27:21,763 INFO 60149 [egg:logger] init all loggers with options: {"dir":"/Users/pengcheng/ssrProjectDemo/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"ssrProjectDemo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-03-23 17:27:21,844 INFO 60149 [egg-schedule]: register schedule /Users/pengcheng/ssrProjectDemo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-03-23 17:27:21,844 INFO 60149 [egg-schedule]: register schedule /Users/pengcheng/ssrProjectDemo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-03-23 17:27:21,857 INFO 60149 [egg-mysql] connecting root@localhost:3306/sharing
+2018-03-23 17:27:22,007 INFO 60149 [egg-static] starting static serve /public/ -> /Users/pengcheng/ssrProjectDemo/public
+2018-03-23 17:27:22,010 INFO 60149 [egg-security] use methodnoallow middleware
+2018-03-23 17:27:22,010 INFO 60149 [egg-security] use noopen middleware
+2018-03-23 17:27:22,010 INFO 60149 [egg-security] use nosniff middleware
+2018-03-23 17:27:22,011 INFO 60149 [egg-security] use xssProtection middleware
+2018-03-23 17:27:22,011 INFO 60149 [egg-security] use xframe middleware
+2018-03-23 17:27:22,012 INFO 60149 [egg-security] use dta middleware
+2018-03-23 17:27:22,012 INFO 60149 [egg-security] compose 6 middlewares into one security middleware
+2018-03-23 17:27:22,062 INFO 60149 [egg-watcher:app] watcher start success
+2018-03-23 17:27:22,064 INFO 60149 [egg-mysql] instance[0] status OK, rds currentTime: Fri Mar 23 2018 17:27:22 GMT+0800 (CST)
+2018-03-23 17:27:21,765 INFO 60146 [egg:logger] init all loggers with options: {"dir":"/Users/pengcheng/ssrProjectDemo/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"ssrProjectDemo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-03-23 17:27:21,847 INFO 60146 [egg-schedule]: register schedule /Users/pengcheng/ssrProjectDemo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-03-23 17:27:21,847 INFO 60146 [egg-schedule]: register schedule /Users/pengcheng/ssrProjectDemo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-03-23 17:27:21,861 INFO 60146 [egg-mysql] connecting root@localhost:3306/sharing
+2018-03-23 17:27:22,007 INFO 60146 [egg-static] starting static serve /public/ -> /Users/pengcheng/ssrProjectDemo/public
+2018-03-23 17:27:22,010 INFO 60146 [egg-security] use methodnoallow middleware
+2018-03-23 17:27:22,010 INFO 60146 [egg-security] use noopen middleware
+2018-03-23 17:27:22,011 INFO 60146 [egg-security] use nosniff middleware
+2018-03-23 17:27:22,011 INFO 60146 [egg-security] use xssProtection middleware
+2018-03-23 17:27:22,011 INFO 60146 [egg-security] use xframe middleware
+2018-03-23 17:27:22,012 INFO 60146 [egg-security] use dta middleware
+2018-03-23 17:27:22,012 INFO 60146 [egg-security] compose 6 middlewares into one security middleware
+2018-03-23 17:27:22,061 INFO 60146 [egg-watcher:app] watcher start success
+2018-03-23 17:27:22,068 INFO 60146 [egg-mysql] instance[0] status OK, rds currentTime: Fri Mar 23 2018 17:27:22 GMT+0800 (CST)
+2018-03-23 17:27:21,793 INFO 60152 [egg:logger] init all loggers with options: {"dir":"/Users/pengcheng/ssrProjectDemo/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"ssrProjectDemo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-03-23 17:27:21,852 INFO 60152 [egg-schedule]: register schedule /Users/pengcheng/ssrProjectDemo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-03-23 17:27:21,852 INFO 60152 [egg-schedule]: register schedule /Users/pengcheng/ssrProjectDemo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-03-23 17:27:21,862 INFO 60152 [egg-mysql] connecting root@localhost:3306/sharing
+2018-03-23 17:27:22,013 INFO 60152 [egg-static] starting static serve /public/ -> /Users/pengcheng/ssrProjectDemo/public
+2018-03-23 17:27:22,017 INFO 60152 [egg-security] use methodnoallow middleware
+2018-03-23 17:27:22,018 INFO 60152 [egg-security] use noopen middleware
+2018-03-23 17:27:22,018 INFO 60152 [egg-security] use nosniff middleware
+2018-03-23 17:27:22,019 INFO 60152 [egg-security] use xssProtection middleware
+2018-03-23 17:27:22,019 INFO 60152 [egg-security] use xframe middleware
+2018-03-23 17:27:22,019 INFO 60152 [egg-security] use dta middleware
+2018-03-23 17:27:22,019 INFO 60152 [egg-security] compose 6 middlewares into one security middleware
+2018-03-23 17:27:22,069 INFO 60152 [egg-watcher:app] watcher start success
+2018-03-23 17:27:22,073 INFO 60152 [egg-mysql] instance[0] status OK, rds currentTime: Fri Mar 23 2018 17:27:22 GMT+0800 (CST)
+2018-03-23 17:27:21,801 INFO 60150 [egg:logger] init all loggers with options: {"dir":"/Users/pengcheng/ssrProjectDemo/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"ssrProjectDemo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-03-23 17:27:21,873 INFO 60150 [egg-schedule]: register schedule /Users/pengcheng/ssrProjectDemo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-03-23 17:27:21,873 INFO 60150 [egg-schedule]: register schedule /Users/pengcheng/ssrProjectDemo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-03-23 17:27:21,889 INFO 60150 [egg-mysql] connecting root@localhost:3306/sharing
+2018-03-23 17:27:22,032 INFO 60150 [egg-static] starting static serve /public/ -> /Users/pengcheng/ssrProjectDemo/public
+2018-03-23 17:27:22,036 INFO 60150 [egg-security] use methodnoallow middleware
+2018-03-23 17:27:22,036 INFO 60150 [egg-security] use noopen middleware
+2018-03-23 17:27:22,037 INFO 60150 [egg-security] use nosniff middleware
+2018-03-23 17:27:22,038 INFO 60150 [egg-security] use xssProtection middleware
+2018-03-23 17:27:22,038 INFO 60150 [egg-security] use xframe middleware
+2018-03-23 17:27:22,039 INFO 60150 [egg-security] use dta middleware
+2018-03-23 17:27:22,039 INFO 60150 [egg-security] compose 6 middlewares into one security middleware
+2018-03-23 17:27:22,090 INFO 60150 [egg-watcher:app] watcher start success
+2018-03-23 17:27:22,093 INFO 60150 [egg-mysql] instance[0] status OK, rds currentTime: Fri Mar 23 2018 17:27:22 GMT+0800 (CST)
+2018-03-23 17:27:21,821 INFO 60145 [egg:logger] init all loggers with options: {"dir":"/Users/pengcheng/ssrProjectDemo/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"ssrProjectDemo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-03-23 17:27:21,899 INFO 60145 [egg-schedule]: register schedule /Users/pengcheng/ssrProjectDemo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-03-23 17:27:21,899 INFO 60145 [egg-schedule]: register schedule /Users/pengcheng/ssrProjectDemo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-03-23 17:27:21,925 INFO 60145 [egg-mysql] connecting root@localhost:3306/sharing
+2018-03-23 17:27:22,063 INFO 60145 [egg-static] starting static serve /public/ -> /Users/pengcheng/ssrProjectDemo/public
+2018-03-23 17:27:22,066 INFO 60145 [egg-security] use methodnoallow middleware
+2018-03-23 17:27:22,067 INFO 60145 [egg-security] use noopen middleware
+2018-03-23 17:27:22,067 INFO 60145 [egg-security] use nosniff middleware
+2018-03-23 17:27:22,067 INFO 60145 [egg-security] use xssProtection middleware
+2018-03-23 17:27:22,068 INFO 60145 [egg-security] use xframe middleware
+2018-03-23 17:27:22,068 INFO 60145 [egg-security] use dta middleware
+2018-03-23 17:27:22,068 INFO 60145 [egg-security] compose 6 middlewares into one security middleware
+2018-03-23 17:27:22,119 INFO 60145 [egg-watcher:app] watcher start success
+2018-03-23 17:27:22,123 INFO 60145 [egg-mysql] instance[0] status OK, rds currentTime: Fri Mar 23 2018 17:27:22 GMT+0800 (CST)
+2018-03-23 17:27:21,821 INFO 60147 [egg:logger] init all loggers with options: {"dir":"/Users/pengcheng/ssrProjectDemo/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"ssrProjectDemo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-03-23 17:27:21,902 INFO 60147 [egg-schedule]: register schedule /Users/pengcheng/ssrProjectDemo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-03-23 17:27:21,903 INFO 60147 [egg-schedule]: register schedule /Users/pengcheng/ssrProjectDemo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-03-23 17:27:21,914 INFO 60147 [egg-mysql] connecting root@localhost:3306/sharing
+2018-03-23 17:27:22,045 INFO 60147 [egg-static] starting static serve /public/ -> /Users/pengcheng/ssrProjectDemo/public
+2018-03-23 17:27:22,049 INFO 60147 [egg-security] use methodnoallow middleware
+2018-03-23 17:27:22,049 INFO 60147 [egg-security] use noopen middleware
+2018-03-23 17:27:22,049 INFO 60147 [egg-security] use nosniff middleware
+2018-03-23 17:27:22,050 INFO 60147 [egg-security] use xssProtection middleware
+2018-03-23 17:27:22,050 INFO 60147 [egg-security] use xframe middleware
+2018-03-23 17:27:22,051 INFO 60147 [egg-security] use dta middleware
+2018-03-23 17:27:22,051 INFO 60147 [egg-security] compose 6 middlewares into one security middleware
+2018-03-23 17:27:22,101 INFO 60147 [egg-watcher:app] watcher start success
+2018-03-23 17:27:22,107 INFO 60147 [egg-mysql] instance[0] status OK, rds currentTime: Fri Mar 23 2018 17:27:22 GMT+0800 (CST)
+2018-03-23 17:27:21,833 INFO 60148 [egg:logger] init all loggers with options: {"dir":"/Users/pengcheng/ssrProjectDemo/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"ssrProjectDemo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-03-23 17:27:21,911 INFO 60148 [egg-schedule]: register schedule /Users/pengcheng/ssrProjectDemo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-03-23 17:27:21,911 INFO 60148 [egg-schedule]: register schedule /Users/pengcheng/ssrProjectDemo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-03-23 17:27:21,929 INFO 60148 [egg-mysql] connecting root@localhost:3306/sharing
+2018-03-23 17:27:22,064 INFO 60148 [egg-static] starting static serve /public/ -> /Users/pengcheng/ssrProjectDemo/public
+2018-03-23 17:27:22,068 INFO 60148 [egg-security] use methodnoallow middleware
+2018-03-23 17:27:22,069 INFO 60148 [egg-security] use noopen middleware
+2018-03-23 17:27:22,069 INFO 60148 [egg-security] use nosniff middleware
+2018-03-23 17:27:22,069 INFO 60148 [egg-security] use xssProtection middleware
+2018-03-23 17:27:22,070 INFO 60148 [egg-security] use xframe middleware
+2018-03-23 17:27:22,070 INFO 60148 [egg-security] use dta middleware
+2018-03-23 17:27:22,070 INFO 60148 [egg-security] compose 6 middlewares into one security middleware
+2018-03-23 17:27:22,112 INFO 60148 [egg-watcher:app] watcher start success
+2018-03-23 17:27:22,116 INFO 60148 [egg-mysql] instance[0] status OK, rds currentTime: Fri Mar 23 2018 17:27:22 GMT+0800 (CST)
+2018-03-23 17:27:21,876 INFO 60151 [egg:logger] init all loggers with options: {"dir":"/Users/pengcheng/ssrProjectDemo/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"ssrProjectDemo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-03-23 17:27:21,967 INFO 60151 [egg-schedule]: register schedule /Users/pengcheng/ssrProjectDemo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-03-23 17:27:21,967 INFO 60151 [egg-schedule]: register schedule /Users/pengcheng/ssrProjectDemo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-03-23 17:27:21,981 INFO 60151 [egg-mysql] connecting root@localhost:3306/sharing
+2018-03-23 17:27:22,109 INFO 60151 [egg-static] starting static serve /public/ -> /Users/pengcheng/ssrProjectDemo/public
+2018-03-23 17:27:22,112 INFO 60151 [egg-security] use methodnoallow middleware
+2018-03-23 17:27:22,113 INFO 60151 [egg-security] use noopen middleware
+2018-03-23 17:27:22,113 INFO 60151 [egg-security] use nosniff middleware
+2018-03-23 17:27:22,113 INFO 60151 [egg-security] use xssProtection middleware
+2018-03-23 17:27:22,114 INFO 60151 [egg-security] use xframe middleware
+2018-03-23 17:27:22,114 INFO 60151 [egg-security] use dta middleware
+2018-03-23 17:27:22,114 INFO 60151 [egg-security] compose 6 middlewares into one security middleware
+2018-03-23 17:27:22,147 INFO 60151 [egg-watcher:app] watcher start success
+2018-03-23 17:27:22,149 INFO 60151 [egg-mysql] instance[0] status OK, rds currentTime: Fri Mar 23 2018 17:27:22 GMT+0800 (CST)
+2018-03-23 18:22:17,976 INFO 60782 [egg:logger] init all loggers with options: {"dir":"/Users/pengcheng/ssrProjectDemo/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"ssrProjectDemo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-03-23 18:22:18,058 INFO 60782 [egg-schedule]: register schedule /Users/pengcheng/ssrProjectDemo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-03-23 18:22:18,058 INFO 60782 [egg-schedule]: register schedule /Users/pengcheng/ssrProjectDemo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-03-23 18:22:18,070 INFO 60782 [egg-mysql] connecting root@localhost:3306/sharing
+2018-03-23 18:22:18,288 INFO 60782 [egg-static] starting static serve /public/ -> /Users/pengcheng/ssrProjectDemo/public
+2018-03-23 18:22:18,291 INFO 60782 [egg-security] use methodnoallow middleware
+2018-03-23 18:22:18,292 INFO 60782 [egg-security] use noopen middleware
+2018-03-23 18:22:18,293 INFO 60782 [egg-security] use nosniff middleware
+2018-03-23 18:22:18,293 INFO 60782 [egg-security] use xssProtection middleware
+2018-03-23 18:22:18,294 INFO 60782 [egg-security] use xframe middleware
+2018-03-23 18:22:18,295 INFO 60782 [egg-security] use dta middleware
+2018-03-23 18:22:18,295 INFO 60782 [egg-security] compose 6 middlewares into one security middleware
+2018-03-23 18:22:18,360 INFO 60782 [egg-watcher:app] watcher start success
+2018-03-23 18:22:18,363 INFO 60782 [egg-mysql] instance[0] status OK, rds currentTime: Fri Mar 23 2018 18:22:18 GMT+0800 (CST)
+2018-03-23 18:22:17,976 INFO 60781 [egg:logger] init all loggers with options: {"dir":"/Users/pengcheng/ssrProjectDemo/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"ssrProjectDemo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-03-23 18:22:18,060 INFO 60781 [egg-schedule]: register schedule /Users/pengcheng/ssrProjectDemo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-03-23 18:22:18,060 INFO 60781 [egg-schedule]: register schedule /Users/pengcheng/ssrProjectDemo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-03-23 18:22:18,072 INFO 60781 [egg-mysql] connecting root@localhost:3306/sharing
+2018-03-23 18:22:18,305 INFO 60781 [egg-static] starting static serve /public/ -> /Users/pengcheng/ssrProjectDemo/public
+2018-03-23 18:22:18,310 INFO 60781 [egg-security] use methodnoallow middleware
+2018-03-23 18:22:18,311 INFO 60781 [egg-security] use noopen middleware
+2018-03-23 18:22:18,311 INFO 60781 [egg-security] use nosniff middleware
+2018-03-23 18:22:18,312 INFO 60781 [egg-security] use xssProtection middleware
+2018-03-23 18:22:18,312 INFO 60781 [egg-security] use xframe middleware
+2018-03-23 18:22:18,312 INFO 60781 [egg-security] use dta middleware
+2018-03-23 18:22:18,312 INFO 60781 [egg-security] compose 6 middlewares into one security middleware
+2018-03-23 18:22:18,369 INFO 60781 [egg-watcher:app] watcher start success
+2018-03-23 18:22:18,372 INFO 60781 [egg-mysql] instance[0] status OK, rds currentTime: Fri Mar 23 2018 18:22:18 GMT+0800 (CST)
+2018-03-23 18:22:17,979 INFO 60783 [egg:logger] init all loggers with options: {"dir":"/Users/pengcheng/ssrProjectDemo/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"ssrProjectDemo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-03-23 18:22:18,070 INFO 60783 [egg-schedule]: register schedule /Users/pengcheng/ssrProjectDemo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-03-23 18:22:18,070 INFO 60783 [egg-schedule]: register schedule /Users/pengcheng/ssrProjectDemo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-03-23 18:22:18,090 INFO 60783 [egg-mysql] connecting root@localhost:3306/sharing
+2018-03-23 18:22:18,317 INFO 60783 [egg-static] starting static serve /public/ -> /Users/pengcheng/ssrProjectDemo/public
+2018-03-23 18:22:18,323 INFO 60783 [egg-security] use methodnoallow middleware
+2018-03-23 18:22:18,323 INFO 60783 [egg-security] use noopen middleware
+2018-03-23 18:22:18,324 INFO 60783 [egg-security] use nosniff middleware
+2018-03-23 18:22:18,324 INFO 60783 [egg-security] use xssProtection middleware
+2018-03-23 18:22:18,325 INFO 60783 [egg-security] use xframe middleware
+2018-03-23 18:22:18,325 INFO 60783 [egg-security] use dta middleware
+2018-03-23 18:22:18,325 INFO 60783 [egg-security] compose 6 middlewares into one security middleware
+2018-03-23 18:22:18,376 INFO 60783 [egg-watcher:app] watcher start success
+2018-03-23 18:22:18,380 INFO 60783 [egg-mysql] instance[0] status OK, rds currentTime: Fri Mar 23 2018 18:22:18 GMT+0800 (CST)
+2018-03-23 18:22:17,976 INFO 60784 [egg:logger] init all loggers with options: {"dir":"/Users/pengcheng/ssrProjectDemo/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"ssrProjectDemo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-03-23 18:22:18,070 INFO 60784 [egg-schedule]: register schedule /Users/pengcheng/ssrProjectDemo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-03-23 18:22:18,070 INFO 60784 [egg-schedule]: register schedule /Users/pengcheng/ssrProjectDemo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-03-23 18:22:18,082 INFO 60784 [egg-mysql] connecting root@localhost:3306/sharing
+2018-03-23 18:22:18,304 INFO 60784 [egg-static] starting static serve /public/ -> /Users/pengcheng/ssrProjectDemo/public
+2018-03-23 18:22:18,307 INFO 60784 [egg-security] use methodnoallow middleware
+2018-03-23 18:22:18,313 INFO 60784 [egg-security] use noopen middleware
+2018-03-23 18:22:18,314 INFO 60784 [egg-security] use nosniff middleware
+2018-03-23 18:22:18,314 INFO 60784 [egg-security] use xssProtection middleware
+2018-03-23 18:22:18,314 INFO 60784 [egg-security] use xframe middleware
+2018-03-23 18:22:18,315 INFO 60784 [egg-security] use dta middleware
+2018-03-23 18:22:18,315 INFO 60784 [egg-security] compose 6 middlewares into one security middleware
+2018-03-23 18:22:18,376 INFO 60784 [egg-watcher:app] watcher start success
+2018-03-23 18:22:18,381 INFO 60784 [egg-mysql] instance[0] status OK, rds currentTime: Fri Mar 23 2018 18:22:18 GMT+0800 (CST)
+2018-03-23 18:22:17,982 INFO 60787 [egg:logger] init all loggers with options: {"dir":"/Users/pengcheng/ssrProjectDemo/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"ssrProjectDemo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-03-23 18:22:18,068 INFO 60787 [egg-schedule]: register schedule /Users/pengcheng/ssrProjectDemo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-03-23 18:22:18,068 INFO 60787 [egg-schedule]: register schedule /Users/pengcheng/ssrProjectDemo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-03-23 18:22:18,086 INFO 60787 [egg-mysql] connecting root@localhost:3306/sharing
+2018-03-23 18:22:18,304 INFO 60787 [egg-static] starting static serve /public/ -> /Users/pengcheng/ssrProjectDemo/public
+2018-03-23 18:22:18,319 INFO 60787 [egg-security] use methodnoallow middleware
+2018-03-23 18:22:18,319 INFO 60787 [egg-security] use noopen middleware
+2018-03-23 18:22:18,320 INFO 60787 [egg-security] use nosniff middleware
+2018-03-23 18:22:18,320 INFO 60787 [egg-security] use xssProtection middleware
+2018-03-23 18:22:18,320 INFO 60787 [egg-security] use xframe middleware
+2018-03-23 18:22:18,321 INFO 60787 [egg-security] use dta middleware
+2018-03-23 18:22:18,321 INFO 60787 [egg-security] compose 6 middlewares into one security middleware
+2018-03-23 18:22:18,371 INFO 60787 [egg-watcher:app] watcher start success
+2018-03-23 18:22:18,374 INFO 60787 [egg-mysql] instance[0] status OK, rds currentTime: Fri Mar 23 2018 18:22:18 GMT+0800 (CST)
+2018-03-23 18:22:17,987 INFO 60786 [egg:logger] init all loggers with options: {"dir":"/Users/pengcheng/ssrProjectDemo/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"ssrProjectDemo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-03-23 18:22:18,080 INFO 60786 [egg-schedule]: register schedule /Users/pengcheng/ssrProjectDemo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-03-23 18:22:18,080 INFO 60786 [egg-schedule]: register schedule /Users/pengcheng/ssrProjectDemo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-03-23 18:22:18,097 INFO 60786 [egg-mysql] connecting root@localhost:3306/sharing
+2018-03-23 18:22:18,319 INFO 60786 [egg-static] starting static serve /public/ -> /Users/pengcheng/ssrProjectDemo/public
+2018-03-23 18:22:18,322 INFO 60786 [egg-security] use methodnoallow middleware
+2018-03-23 18:22:18,322 INFO 60786 [egg-security] use noopen middleware
+2018-03-23 18:22:18,323 INFO 60786 [egg-security] use nosniff middleware
+2018-03-23 18:22:18,323 INFO 60786 [egg-security] use xssProtection middleware
+2018-03-23 18:22:18,323 INFO 60786 [egg-security] use xframe middleware
+2018-03-23 18:22:18,324 INFO 60786 [egg-security] use dta middleware
+2018-03-23 18:22:18,324 INFO 60786 [egg-security] compose 6 middlewares into one security middleware
+2018-03-23 18:22:18,377 INFO 60786 [egg-watcher:app] watcher start success
+2018-03-23 18:22:18,381 INFO 60786 [egg-mysql] instance[0] status OK, rds currentTime: Fri Mar 23 2018 18:22:18 GMT+0800 (CST)
+2018-03-23 18:22:17,993 INFO 60785 [egg:logger] init all loggers with options: {"dir":"/Users/pengcheng/ssrProjectDemo/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"ssrProjectDemo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-03-23 18:22:18,082 INFO 60785 [egg-schedule]: register schedule /Users/pengcheng/ssrProjectDemo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-03-23 18:22:18,082 INFO 60785 [egg-schedule]: register schedule /Users/pengcheng/ssrProjectDemo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-03-23 18:22:18,104 INFO 60785 [egg-mysql] connecting root@localhost:3306/sharing
+2018-03-23 18:22:18,327 INFO 60785 [egg-static] starting static serve /public/ -> /Users/pengcheng/ssrProjectDemo/public
+2018-03-23 18:22:18,331 INFO 60785 [egg-security] use methodnoallow middleware
+2018-03-23 18:22:18,332 INFO 60785 [egg-security] use noopen middleware
+2018-03-23 18:22:18,332 INFO 60785 [egg-security] use nosniff middleware
+2018-03-23 18:22:18,332 INFO 60785 [egg-security] use xssProtection middleware
+2018-03-23 18:22:18,333 INFO 60785 [egg-security] use xframe middleware
+2018-03-23 18:22:18,333 INFO 60785 [egg-security] use dta middleware
+2018-03-23 18:22:18,333 INFO 60785 [egg-security] compose 6 middlewares into one security middleware
+2018-03-23 18:22:18,386 INFO 60785 [egg-watcher:app] watcher start success
+2018-03-23 18:22:18,392 INFO 60785 [egg-mysql] instance[0] status OK, rds currentTime: Fri Mar 23 2018 18:22:18 GMT+0800 (CST)
+2018-03-23 18:22:18,143 INFO 60788 [egg:logger] init all loggers with options: {"dir":"/Users/pengcheng/ssrProjectDemo/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"ssrProjectDemo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-03-23 18:22:18,285 INFO 60788 [egg-schedule]: register schedule /Users/pengcheng/ssrProjectDemo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-03-23 18:22:18,285 INFO 60788 [egg-schedule]: register schedule /Users/pengcheng/ssrProjectDemo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-03-23 18:22:18,307 INFO 60788 [egg-mysql] connecting root@localhost:3306/sharing
+2018-03-23 18:22:18,416 INFO 60788 [egg-static] starting static serve /public/ -> /Users/pengcheng/ssrProjectDemo/public
+2018-03-23 18:22:18,419 INFO 60788 [egg-security] use methodnoallow middleware
+2018-03-23 18:22:18,420 INFO 60788 [egg-security] use noopen middleware
+2018-03-23 18:22:18,420 INFO 60788 [egg-security] use nosniff middleware
+2018-03-23 18:22:18,421 INFO 60788 [egg-security] use xssProtection middleware
+2018-03-23 18:22:18,421 INFO 60788 [egg-security] use xframe middleware
+2018-03-23 18:22:18,422 INFO 60788 [egg-security] use dta middleware
+2018-03-23 18:22:18,422 INFO 60788 [egg-security] compose 6 middlewares into one security middleware
+2018-03-23 18:22:18,453 INFO 60788 [egg-watcher:app] watcher start success
+2018-03-23 18:22:18,455 INFO 60788 [egg-mysql] instance[0] status OK, rds currentTime: Fri Mar 23 2018 18:22:18 GMT+0800 (CST)
+2018-03-23 18:24:02,430 INFO 60818 [egg:logger] init all loggers with options: {"dir":"/Users/pengcheng/ssrProjectDemo/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"ssrProjectDemo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-03-23 18:24:02,495 INFO 60818 [egg-schedule]: register schedule /Users/pengcheng/ssrProjectDemo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-03-23 18:24:02,495 INFO 60818 [egg-schedule]: register schedule /Users/pengcheng/ssrProjectDemo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-03-23 18:24:02,507 INFO 60818 [egg-mysql] connecting root@localhost:3306/sharing
+2018-03-23 18:24:02,648 INFO 60818 [egg-static] starting static serve /public/ -> /Users/pengcheng/ssrProjectDemo/public
+2018-03-23 18:24:02,652 INFO 60818 [egg-security] use methodnoallow middleware
+2018-03-23 18:24:02,652 INFO 60818 [egg-security] use noopen middleware
+2018-03-23 18:24:02,653 INFO 60818 [egg-security] use nosniff middleware
+2018-03-23 18:24:02,654 INFO 60818 [egg-security] use xssProtection middleware
+2018-03-23 18:24:02,654 INFO 60818 [egg-security] use xframe middleware
+2018-03-23 18:24:02,655 INFO 60818 [egg-security] use dta middleware
+2018-03-23 18:24:02,655 INFO 60818 [egg-security] compose 6 middlewares into one security middleware
+2018-03-23 18:24:02,721 INFO 60818 [egg-watcher:app] watcher start success
+2018-03-23 18:24:02,723 INFO 60818 [egg-mysql] instance[0] status OK, rds currentTime: Fri Mar 23 2018 18:24:02 GMT+0800 (CST)
+2018-03-23 18:24:02,431 INFO 60825 [egg:logger] init all loggers with options: {"dir":"/Users/pengcheng/ssrProjectDemo/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"ssrProjectDemo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-03-23 18:24:02,499 INFO 60825 [egg-schedule]: register schedule /Users/pengcheng/ssrProjectDemo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-03-23 18:24:02,499 INFO 60825 [egg-schedule]: register schedule /Users/pengcheng/ssrProjectDemo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-03-23 18:24:02,511 INFO 60825 [egg-mysql] connecting root@localhost:3306/sharing
+2018-03-23 18:24:02,659 INFO 60825 [egg-static] starting static serve /public/ -> /Users/pengcheng/ssrProjectDemo/public
+2018-03-23 18:24:02,665 INFO 60825 [egg-security] use methodnoallow middleware
+2018-03-23 18:24:02,666 INFO 60825 [egg-security] use noopen middleware
+2018-03-23 18:24:02,666 INFO 60825 [egg-security] use nosniff middleware
+2018-03-23 18:24:02,667 INFO 60825 [egg-security] use xssProtection middleware
+2018-03-23 18:24:02,667 INFO 60825 [egg-security] use xframe middleware
+2018-03-23 18:24:02,668 INFO 60825 [egg-security] use dta middleware
+2018-03-23 18:24:02,668 INFO 60825 [egg-security] compose 6 middlewares into one security middleware
+2018-03-23 18:24:02,729 INFO 60825 [egg-watcher:app] watcher start success
+2018-03-23 18:24:02,731 INFO 60825 [egg-mysql] instance[0] status OK, rds currentTime: Fri Mar 23 2018 18:24:02 GMT+0800 (CST)
+2018-03-23 18:24:02,434 INFO 60819 [egg:logger] init all loggers with options: {"dir":"/Users/pengcheng/ssrProjectDemo/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"ssrProjectDemo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-03-23 18:24:02,497 INFO 60819 [egg-schedule]: register schedule /Users/pengcheng/ssrProjectDemo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-03-23 18:24:02,497 INFO 60819 [egg-schedule]: register schedule /Users/pengcheng/ssrProjectDemo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-03-23 18:24:02,509 INFO 60819 [egg-mysql] connecting root@localhost:3306/sharing
+2018-03-23 18:24:02,667 INFO 60819 [egg-static] starting static serve /public/ -> /Users/pengcheng/ssrProjectDemo/public
+2018-03-23 18:24:02,670 INFO 60819 [egg-security] use methodnoallow middleware
+2018-03-23 18:24:02,670 INFO 60819 [egg-security] use noopen middleware
+2018-03-23 18:24:02,671 INFO 60819 [egg-security] use nosniff middleware
+2018-03-23 18:24:02,671 INFO 60819 [egg-security] use xssProtection middleware
+2018-03-23 18:24:02,671 INFO 60819 [egg-security] use xframe middleware
+2018-03-23 18:24:02,672 INFO 60819 [egg-security] use dta middleware
+2018-03-23 18:24:02,672 INFO 60819 [egg-security] compose 6 middlewares into one security middleware
+2018-03-23 18:24:02,723 INFO 60819 [egg-watcher:app] watcher start success
+2018-03-23 18:24:02,731 INFO 60819 [egg-mysql] instance[0] status OK, rds currentTime: Fri Mar 23 2018 18:24:02 GMT+0800 (CST)
+2018-03-23 18:24:02,448 INFO 60821 [egg:logger] init all loggers with options: {"dir":"/Users/pengcheng/ssrProjectDemo/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"ssrProjectDemo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-03-23 18:24:02,510 INFO 60821 [egg-schedule]: register schedule /Users/pengcheng/ssrProjectDemo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-03-23 18:24:02,510 INFO 60821 [egg-schedule]: register schedule /Users/pengcheng/ssrProjectDemo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-03-23 18:24:02,521 INFO 60821 [egg-mysql] connecting root@localhost:3306/sharing
+2018-03-23 18:24:02,680 INFO 60821 [egg-static] starting static serve /public/ -> /Users/pengcheng/ssrProjectDemo/public
+2018-03-23 18:24:02,683 INFO 60821 [egg-security] use methodnoallow middleware
+2018-03-23 18:24:02,684 INFO 60821 [egg-security] use noopen middleware
+2018-03-23 18:24:02,684 INFO 60821 [egg-security] use nosniff middleware
+2018-03-23 18:24:02,685 INFO 60821 [egg-security] use xssProtection middleware
+2018-03-23 18:24:02,685 INFO 60821 [egg-security] use xframe middleware
+2018-03-23 18:24:02,685 INFO 60821 [egg-security] use dta middleware
+2018-03-23 18:24:02,685 INFO 60821 [egg-security] compose 6 middlewares into one security middleware
+2018-03-23 18:24:02,739 INFO 60821 [egg-watcher:app] watcher start success
+2018-03-23 18:24:02,742 INFO 60821 [egg-mysql] instance[0] status OK, rds currentTime: Fri Mar 23 2018 18:24:02 GMT+0800 (CST)
+2018-03-23 18:24:02,453 INFO 60820 [egg:logger] init all loggers with options: {"dir":"/Users/pengcheng/ssrProjectDemo/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"ssrProjectDemo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-03-23 18:24:02,514 INFO 60820 [egg-schedule]: register schedule /Users/pengcheng/ssrProjectDemo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-03-23 18:24:02,514 INFO 60820 [egg-schedule]: register schedule /Users/pengcheng/ssrProjectDemo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-03-23 18:24:02,526 INFO 60820 [egg-mysql] connecting root@localhost:3306/sharing
+2018-03-23 18:24:02,683 INFO 60820 [egg-static] starting static serve /public/ -> /Users/pengcheng/ssrProjectDemo/public
+2018-03-23 18:24:02,686 INFO 60820 [egg-security] use methodnoallow middleware
+2018-03-23 18:24:02,686 INFO 60820 [egg-security] use noopen middleware
+2018-03-23 18:24:02,687 INFO 60820 [egg-security] use nosniff middleware
+2018-03-23 18:24:02,687 INFO 60820 [egg-security] use xssProtection middleware
+2018-03-23 18:24:02,687 INFO 60820 [egg-security] use xframe middleware
+2018-03-23 18:24:02,688 INFO 60820 [egg-security] use dta middleware
+2018-03-23 18:24:02,688 INFO 60820 [egg-security] compose 6 middlewares into one security middleware
+2018-03-23 18:24:02,740 INFO 60820 [egg-watcher:app] watcher start success
+2018-03-23 18:24:02,745 INFO 60820 [egg-mysql] instance[0] status OK, rds currentTime: Fri Mar 23 2018 18:24:02 GMT+0800 (CST)
+2018-03-23 18:24:02,453 INFO 60824 [egg:logger] init all loggers with options: {"dir":"/Users/pengcheng/ssrProjectDemo/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"ssrProjectDemo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-03-23 18:24:02,515 INFO 60824 [egg-schedule]: register schedule /Users/pengcheng/ssrProjectDemo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-03-23 18:24:02,515 INFO 60824 [egg-schedule]: register schedule /Users/pengcheng/ssrProjectDemo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-03-23 18:24:02,527 INFO 60824 [egg-mysql] connecting root@localhost:3306/sharing
+2018-03-23 18:24:02,687 INFO 60824 [egg-static] starting static serve /public/ -> /Users/pengcheng/ssrProjectDemo/public
+2018-03-23 18:24:02,690 INFO 60824 [egg-security] use methodnoallow middleware
+2018-03-23 18:24:02,690 INFO 60824 [egg-security] use noopen middleware
+2018-03-23 18:24:02,691 INFO 60824 [egg-security] use nosniff middleware
+2018-03-23 18:24:02,691 INFO 60824 [egg-security] use xssProtection middleware
+2018-03-23 18:24:02,692 INFO 60824 [egg-security] use xframe middleware
+2018-03-23 18:24:02,692 INFO 60824 [egg-security] use dta middleware
+2018-03-23 18:24:02,692 INFO 60824 [egg-security] compose 6 middlewares into one security middleware
+2018-03-23 18:24:02,751 INFO 60824 [egg-watcher:app] watcher start success
+2018-03-23 18:24:02,755 INFO 60824 [egg-mysql] instance[0] status OK, rds currentTime: Fri Mar 23 2018 18:24:02 GMT+0800 (CST)
+2018-03-23 18:24:02,485 INFO 60823 [egg:logger] init all loggers with options: {"dir":"/Users/pengcheng/ssrProjectDemo/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"ssrProjectDemo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-03-23 18:24:02,546 INFO 60823 [egg-schedule]: register schedule /Users/pengcheng/ssrProjectDemo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-03-23 18:24:02,546 INFO 60823 [egg-schedule]: register schedule /Users/pengcheng/ssrProjectDemo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-03-23 18:24:02,567 INFO 60823 [egg-mysql] connecting root@localhost:3306/sharing
+2018-03-23 18:24:02,715 INFO 60823 [egg-static] starting static serve /public/ -> /Users/pengcheng/ssrProjectDemo/public
+2018-03-23 18:24:02,718 INFO 60823 [egg-security] use methodnoallow middleware
+2018-03-23 18:24:02,719 INFO 60823 [egg-security] use noopen middleware
+2018-03-23 18:24:02,719 INFO 60823 [egg-security] use nosniff middleware
+2018-03-23 18:24:02,720 INFO 60823 [egg-security] use xssProtection middleware
+2018-03-23 18:24:02,720 INFO 60823 [egg-security] use xframe middleware
+2018-03-23 18:24:02,721 INFO 60823 [egg-security] use dta middleware
+2018-03-23 18:24:02,721 INFO 60823 [egg-security] compose 6 middlewares into one security middleware
+2018-03-23 18:24:02,773 INFO 60823 [egg-watcher:app] watcher start success
+2018-03-23 18:24:02,778 INFO 60823 [egg-mysql] instance[0] status OK, rds currentTime: Fri Mar 23 2018 18:24:02 GMT+0800 (CST)
+2018-03-23 18:24:02,493 INFO 60822 [egg:logger] init all loggers with options: {"dir":"/Users/pengcheng/ssrProjectDemo/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"ssrProjectDemo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-03-23 18:24:02,568 INFO 60822 [egg-schedule]: register schedule /Users/pengcheng/ssrProjectDemo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-03-23 18:24:02,568 INFO 60822 [egg-schedule]: register schedule /Users/pengcheng/ssrProjectDemo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-03-23 18:24:02,580 INFO 60822 [egg-mysql] connecting root@localhost:3306/sharing
+2018-03-23 18:24:02,730 INFO 60822 [egg-static] starting static serve /public/ -> /Users/pengcheng/ssrProjectDemo/public
+2018-03-23 18:24:02,735 INFO 60822 [egg-security] use methodnoallow middleware
+2018-03-23 18:24:02,735 INFO 60822 [egg-security] use noopen middleware
+2018-03-23 18:24:02,736 INFO 60822 [egg-security] use nosniff middleware
+2018-03-23 18:24:02,736 INFO 60822 [egg-security] use xssProtection middleware
+2018-03-23 18:24:02,736 INFO 60822 [egg-security] use xframe middleware
+2018-03-23 18:24:02,737 INFO 60822 [egg-security] use dta middleware
+2018-03-23 18:24:02,737 INFO 60822 [egg-security] compose 6 middlewares into one security middleware
+2018-03-23 18:24:02,781 INFO 60822 [egg-watcher:app] watcher start success
+2018-03-23 18:24:02,783 INFO 60822 [egg-mysql] instance[0] status OK, rds currentTime: Fri Mar 23 2018 18:24:02 GMT+0800 (CST)
+2018-03-23 18:26:25,435 INFO 60862 [egg:logger] init all loggers with options: {"dir":"/Users/pengcheng/ssrProjectDemo/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"ssrProjectDemo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-03-23 18:26:25,506 INFO 60862 [egg-schedule]: register schedule /Users/pengcheng/ssrProjectDemo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-03-23 18:26:25,506 INFO 60862 [egg-schedule]: register schedule /Users/pengcheng/ssrProjectDemo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-03-23 18:26:25,537 INFO 60862 [egg-mysql] connecting root@localhost:3306/sharing
+2018-03-23 18:26:25,935 INFO 60862 [egg-static] starting static serve /public/ -> /Users/pengcheng/ssrProjectDemo/public
+2018-03-23 18:26:25,940 INFO 60862 [egg-security] use methodnoallow middleware
+2018-03-23 18:26:25,940 INFO 60862 [egg-security] use noopen middleware
+2018-03-23 18:26:25,943 INFO 60862 [egg-security] use nosniff middleware
+2018-03-23 18:26:25,944 INFO 60862 [egg-security] use xssProtection middleware
+2018-03-23 18:26:25,944 INFO 60862 [egg-security] use xframe middleware
+2018-03-23 18:26:25,945 INFO 60862 [egg-security] use dta middleware
+2018-03-23 18:26:25,945 INFO 60862 [egg-security] compose 6 middlewares into one security middleware
+2018-03-23 18:26:26,054 INFO 60862 [egg-watcher:app] watcher start success
+2018-03-23 18:26:26,058 INFO 60862 [egg-mysql] instance[0] status OK, rds currentTime: Fri Mar 23 2018 18:26:26 GMT+0800 (CST)
+2018-03-23 18:26:25,438 INFO 60861 [egg:logger] init all loggers with options: {"dir":"/Users/pengcheng/ssrProjectDemo/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"ssrProjectDemo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-03-23 18:26:25,515 INFO 60861 [egg-schedule]: register schedule /Users/pengcheng/ssrProjectDemo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-03-23 18:26:25,515 INFO 60861 [egg-schedule]: register schedule /Users/pengcheng/ssrProjectDemo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-03-23 18:26:25,558 INFO 60861 [egg-mysql] connecting root@localhost:3306/sharing
+2018-03-23 18:26:25,935 INFO 60861 [egg-static] starting static serve /public/ -> /Users/pengcheng/ssrProjectDemo/public
+2018-03-23 18:26:25,938 INFO 60861 [egg-security] use methodnoallow middleware
+2018-03-23 18:26:25,939 INFO 60861 [egg-security] use noopen middleware
+2018-03-23 18:26:25,939 INFO 60861 [egg-security] use nosniff middleware
+2018-03-23 18:26:25,940 INFO 60861 [egg-security] use xssProtection middleware
+2018-03-23 18:26:25,940 INFO 60861 [egg-security] use xframe middleware
+2018-03-23 18:26:25,940 INFO 60861 [egg-security] use dta middleware
+2018-03-23 18:26:25,940 INFO 60861 [egg-security] compose 6 middlewares into one security middleware
+2018-03-23 18:26:26,043 INFO 60861 [egg-watcher:app] watcher start success
+2018-03-23 18:26:26,048 INFO 60861 [egg-mysql] instance[0] status OK, rds currentTime: Fri Mar 23 2018 18:26:26 GMT+0800 (CST)
+2018-03-23 18:26:25,449 INFO 60867 [egg:logger] init all loggers with options: {"dir":"/Users/pengcheng/ssrProjectDemo/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"ssrProjectDemo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-03-23 18:26:25,525 INFO 60867 [egg-schedule]: register schedule /Users/pengcheng/ssrProjectDemo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-03-23 18:26:25,525 INFO 60867 [egg-schedule]: register schedule /Users/pengcheng/ssrProjectDemo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-03-23 18:26:25,582 INFO 60867 [egg-mysql] connecting root@localhost:3306/sharing
+2018-03-23 18:26:25,933 INFO 60867 [egg-static] starting static serve /public/ -> /Users/pengcheng/ssrProjectDemo/public
+2018-03-23 18:26:25,936 INFO 60867 [egg-security] use methodnoallow middleware
+2018-03-23 18:26:25,937 INFO 60867 [egg-security] use noopen middleware
+2018-03-23 18:26:25,937 INFO 60867 [egg-security] use nosniff middleware
+2018-03-23 18:26:25,938 INFO 60867 [egg-security] use xssProtection middleware
+2018-03-23 18:26:25,938 INFO 60867 [egg-security] use xframe middleware
+2018-03-23 18:26:25,938 INFO 60867 [egg-security] use dta middleware
+2018-03-23 18:26:25,938 INFO 60867 [egg-security] compose 6 middlewares into one security middleware
+2018-03-23 18:26:25,999 INFO 60867 [egg-watcher:app] watcher start success
+2018-03-23 18:26:26,002 INFO 60867 [egg-mysql] instance[0] status OK, rds currentTime: Fri Mar 23 2018 18:26:25 GMT+0800 (CST)
+2018-03-23 18:26:25,464 INFO 60865 [egg:logger] init all loggers with options: {"dir":"/Users/pengcheng/ssrProjectDemo/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"ssrProjectDemo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-03-23 18:26:25,565 INFO 60865 [egg-schedule]: register schedule /Users/pengcheng/ssrProjectDemo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-03-23 18:26:25,565 INFO 60865 [egg-schedule]: register schedule /Users/pengcheng/ssrProjectDemo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-03-23 18:26:25,637 INFO 60865 [egg-mysql] connecting root@localhost:3306/sharing
+2018-03-23 18:26:25,830 INFO 60865 [egg-static] starting static serve /public/ -> /Users/pengcheng/ssrProjectDemo/public
+2018-03-23 18:26:25,834 INFO 60865 [egg-security] use methodnoallow middleware
+2018-03-23 18:26:25,834 INFO 60865 [egg-security] use noopen middleware
+2018-03-23 18:26:25,835 INFO 60865 [egg-security] use nosniff middleware
+2018-03-23 18:26:25,835 INFO 60865 [egg-security] use xssProtection middleware
+2018-03-23 18:26:25,836 INFO 60865 [egg-security] use xframe middleware
+2018-03-23 18:26:25,840 INFO 60865 [egg-security] use dta middleware
+2018-03-23 18:26:25,840 INFO 60865 [egg-security] compose 6 middlewares into one security middleware
+2018-03-23 18:26:25,924 INFO 60865 [egg-watcher:app] watcher start success
+2018-03-23 18:26:25,929 INFO 60865 [egg-mysql] instance[0] status OK, rds currentTime: Fri Mar 23 2018 18:26:25 GMT+0800 (CST)
+2018-03-23 18:26:25,465 INFO 60868 [egg:logger] init all loggers with options: {"dir":"/Users/pengcheng/ssrProjectDemo/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"ssrProjectDemo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-03-23 18:26:25,576 INFO 60868 [egg-schedule]: register schedule /Users/pengcheng/ssrProjectDemo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-03-23 18:26:25,576 INFO 60868 [egg-schedule]: register schedule /Users/pengcheng/ssrProjectDemo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-03-23 18:26:25,645 INFO 60868 [egg-mysql] connecting root@localhost:3306/sharing
+2018-03-23 18:26:25,827 INFO 60868 [egg-static] starting static serve /public/ -> /Users/pengcheng/ssrProjectDemo/public
+2018-03-23 18:26:25,831 INFO 60868 [egg-security] use methodnoallow middleware
+2018-03-23 18:26:25,832 INFO 60868 [egg-security] use noopen middleware
+2018-03-23 18:26:25,832 INFO 60868 [egg-security] use nosniff middleware
+2018-03-23 18:26:25,833 INFO 60868 [egg-security] use xssProtection middleware
+2018-03-23 18:26:25,834 INFO 60868 [egg-security] use xframe middleware
+2018-03-23 18:26:25,834 INFO 60868 [egg-security] use dta middleware
+2018-03-23 18:26:25,834 INFO 60868 [egg-security] compose 6 middlewares into one security middleware
+2018-03-23 18:26:25,922 INFO 60868 [egg-watcher:app] watcher start success
+2018-03-23 18:26:25,927 INFO 60868 [egg-mysql] instance[0] status OK, rds currentTime: Fri Mar 23 2018 18:26:25 GMT+0800 (CST)
+2018-03-23 18:26:25,530 INFO 60863 [egg:logger] init all loggers with options: {"dir":"/Users/pengcheng/ssrProjectDemo/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"ssrProjectDemo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-03-23 18:26:25,756 INFO 60863 [egg-schedule]: register schedule /Users/pengcheng/ssrProjectDemo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-03-23 18:26:25,757 INFO 60863 [egg-schedule]: register schedule /Users/pengcheng/ssrProjectDemo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-03-23 18:26:25,906 INFO 60863 [egg-mysql] connecting root@localhost:3306/sharing
+2018-03-23 18:26:26,051 INFO 60863 [egg-static] starting static serve /public/ -> /Users/pengcheng/ssrProjectDemo/public
+2018-03-23 18:26:26,054 INFO 60863 [egg-security] use methodnoallow middleware
+2018-03-23 18:26:26,054 INFO 60863 [egg-security] use noopen middleware
+2018-03-23 18:26:26,054 INFO 60863 [egg-security] use nosniff middleware
+2018-03-23 18:26:26,055 INFO 60863 [egg-security] use xssProtection middleware
+2018-03-23 18:26:26,055 INFO 60863 [egg-security] use xframe middleware
+2018-03-23 18:26:26,055 INFO 60863 [egg-security] use dta middleware
+2018-03-23 18:26:26,056 INFO 60863 [egg-security] compose 6 middlewares into one security middleware
+2018-03-23 18:26:26,129 INFO 60863 [egg-watcher:app] watcher start success
+2018-03-23 18:26:26,131 INFO 60863 [egg-mysql] instance[0] status OK, rds currentTime: Fri Mar 23 2018 18:26:26 GMT+0800 (CST)
+2018-03-23 18:26:25,556 INFO 60864 [egg:logger] init all loggers with options: {"dir":"/Users/pengcheng/ssrProjectDemo/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"ssrProjectDemo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-03-23 18:26:25,700 INFO 60864 [egg-schedule]: register schedule /Users/pengcheng/ssrProjectDemo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-03-23 18:26:25,700 INFO 60864 [egg-schedule]: register schedule /Users/pengcheng/ssrProjectDemo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-03-23 18:26:25,731 INFO 60864 [egg-mysql] connecting root@localhost:3306/sharing
+2018-03-23 18:26:25,964 INFO 60864 [egg-static] starting static serve /public/ -> /Users/pengcheng/ssrProjectDemo/public
+2018-03-23 18:26:25,971 INFO 60864 [egg-security] use methodnoallow middleware
+2018-03-23 18:26:25,971 INFO 60864 [egg-security] use noopen middleware
+2018-03-23 18:26:25,972 INFO 60864 [egg-security] use nosniff middleware
+2018-03-23 18:26:25,972 INFO 60864 [egg-security] use xssProtection middleware
+2018-03-23 18:26:25,973 INFO 60864 [egg-security] use xframe middleware
+2018-03-23 18:26:25,973 INFO 60864 [egg-security] use dta middleware
+2018-03-23 18:26:25,973 INFO 60864 [egg-security] compose 6 middlewares into one security middleware
+2018-03-23 18:26:26,031 INFO 60864 [egg-watcher:app] watcher start success
+2018-03-23 18:26:26,036 INFO 60864 [egg-mysql] instance[0] status OK, rds currentTime: Fri Mar 23 2018 18:26:26 GMT+0800 (CST)
+2018-03-23 18:26:25,614 INFO 60866 [egg:logger] init all loggers with options: {"dir":"/Users/pengcheng/ssrProjectDemo/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"ssrProjectDemo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-03-23 18:26:25,720 INFO 60866 [egg-schedule]: register schedule /Users/pengcheng/ssrProjectDemo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-03-23 18:26:25,720 INFO 60866 [egg-schedule]: register schedule /Users/pengcheng/ssrProjectDemo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-03-23 18:26:25,747 INFO 60866 [egg-mysql] connecting root@localhost:3306/sharing
+2018-03-23 18:26:25,989 INFO 60866 [egg-static] starting static serve /public/ -> /Users/pengcheng/ssrProjectDemo/public
+2018-03-23 18:26:25,994 INFO 60866 [egg-security] use methodnoallow middleware
+2018-03-23 18:26:25,995 INFO 60866 [egg-security] use noopen middleware
+2018-03-23 18:26:25,996 INFO 60866 [egg-security] use nosniff middleware
+2018-03-23 18:26:25,996 INFO 60866 [egg-security] use xssProtection middleware
+2018-03-23 18:26:25,997 INFO 60866 [egg-security] use xframe middleware
+2018-03-23 18:26:25,997 INFO 60866 [egg-security] use dta middleware
+2018-03-23 18:26:25,997 INFO 60866 [egg-security] compose 6 middlewares into one security middleware
+2018-03-23 18:26:26,050 INFO 60866 [egg-watcher:app] watcher start success
+2018-03-23 18:26:26,053 INFO 60866 [egg-mysql] instance[0] status OK, rds currentTime: Fri Mar 23 2018 18:26:26 GMT+0800 (CST)
+2018-03-23 19:19:47,621 WARN 60868 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-23 19:19:47,630 WARN 60863 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-23 19:19:47,630 WARN 60862 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-23 19:19:47,624 WARN 60861 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-23 19:19:47,624 WARN 60866 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-23 20:21:42,268 WARN 60864 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-23 20:21:42,268 WARN 60866 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-23 20:21:42,268 WARN 60861 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-23 20:21:42,268 WARN 60867 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-23 21:07:17,675 WARN 60863 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-03-23 21:07:17,680 WARN 60863 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-23 21:07:17,675 WARN 60862 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-03-23 21:07:17,680 WARN 60862 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-23 21:07:17,674 WARN 60867 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-03-23 21:07:17,680 WARN 60867 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-23 21:07:17,674 WARN 60868 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-03-23 21:07:17,680 WARN 60868 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-23 21:07:17,675 WARN 60861 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-03-23 21:07:17,680 WARN 60861 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-23 21:38:11,419 WARN 60866 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-23 21:38:11,419 WARN 60864 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-23 21:38:11,419 WARN 60867 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-23 21:38:11,419 WARN 60862 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-23 21:38:11,419 WARN 60861 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-23 22:24:06,143 WARN 60865 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-03-23 22:24:06,144 WARN 60865 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-23 22:24:06,144 WARN 60867 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-23 22:24:06,144 WARN 60863 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-23 22:24:06,144 WARN 60868 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-23 22:24:06,144 WARN 60864 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-23 23:02:56,040 WARN 60861 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-23 23:02:56,039 WARN 60865 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-23 23:02:56,039 WARN 60867 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-23 23:02:56,039 WARN 60863 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-23 23:13:08,860 WARN 60863 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-23 23:13:08,859 WARN 60864 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-23 23:13:08,859 WARN 60868 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-23 23:13:08,859 WARN 60865 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-23 23:13:08,860 WARN 60866 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-23 23:13:08,860 WARN 60861 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-24 00:14:04,688 WARN 60865 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-03-24 00:14:04,688 WARN 60865 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-24 00:14:04,688 WARN 60868 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-03-24 00:14:04,688 WARN 60868 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-24 00:14:04,688 WARN 60867 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-03-24 00:14:04,689 WARN 60867 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-24 00:14:04,688 WARN 60863 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-03-24 00:14:04,689 WARN 60863 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-24 00:14:04,688 WARN 60861 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-03-24 00:14:04,689 WARN 60861 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-24 00:14:04,688 WARN 60862 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-03-24 00:14:04,689 WARN 60862 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-24 00:14:04,688 WARN 60864 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-03-24 00:14:04,688 WARN 60864 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-24 02:02:07,520 WARN 60863 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-03-24 02:02:07,520 WARN 60863 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-24 02:02:07,520 WARN 60867 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-03-24 02:02:07,520 WARN 60867 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-24 02:02:07,520 WARN 60865 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-24 02:02:07,520 WARN 60862 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-03-24 02:02:07,521 WARN 60862 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-24 02:02:07,520 WARN 60868 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-03-24 02:02:07,520 WARN 60868 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-24 02:02:07,520 WARN 60861 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-03-24 02:02:07,521 WARN 60861 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-24 02:02:07,520 WARN 60864 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-03-24 02:02:07,520 WARN 60864 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-24 02:32:39,805 WARN 60861 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-24 02:32:39,803 WARN 60868 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-24 02:32:39,804 WARN 60863 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-24 02:32:39,802 WARN 60866 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-24 02:32:39,804 WARN 60862 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-24 02:32:39,802 WARN 60865 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-24 02:32:39,805 WARN 60867 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-24 02:32:39,804 WARN 60864 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-03-24 02:32:39,829 WARN 60864 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-24 04:13:50,627 WARN 60862 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-24 04:13:50,627 WARN 60867 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-24 04:13:50,626 WARN 60868 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-24 04:13:50,626 WARN 60866 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-24 04:13:50,627 WARN 60861 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-24 04:13:50,627 WARN 60864 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-24 04:13:50,626 WARN 60865 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-24 05:24:18,664 WARN 60861 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-03-24 05:24:18,665 WARN 60861 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-24 05:24:18,667 WARN 60864 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-03-24 05:24:18,672 WARN 60864 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-24 05:24:18,665 WARN 60865 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-03-24 05:24:18,665 WARN 60865 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-24 05:24:18,667 WARN 60862 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-03-24 05:24:18,672 WARN 60862 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-24 05:24:18,665 WARN 60868 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-03-24 05:24:18,665 WARN 60868 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-24 05:24:18,665 WARN 60866 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-03-24 05:24:18,665 WARN 60866 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-24 06:34:45,536 WARN 60863 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-24 06:34:45,535 WARN 60867 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-24 06:34:45,535 WARN 60861 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-24 06:34:45,536 WARN 60864 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-24 06:34:45,535 WARN 60866 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-24 06:34:45,535 WARN 60865 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-24 06:34:45,536 WARN 60868 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-24 06:34:45,536 WARN 60862 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-26 09:31:42,626 WARN 60863 [ClusterClient:Watcher] follower closed, and try to init it again
+handled data in the socket buffer
+2018-03-26 09:31:42,626 WARN 60861 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-26 09:31:42,626 WARN 60868 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-26 09:31:42,626 WARN 60867 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-26 09:31:42,626 WARN 60865 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-26 09:34:36,724 INFO 61410 [egg:logger] init all loggers with options: {"dir":"/Users/pengcheng/ssrProjectDemo/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"ssrProjectDemo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-03-26 09:34:36,780 INFO 61410 [egg-schedule]: register schedule /Users/pengcheng/ssrProjectDemo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-03-26 09:34:36,780 INFO 61410 [egg-schedule]: register schedule /Users/pengcheng/ssrProjectDemo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-03-26 09:34:36,791 INFO 61410 [egg-mysql] connecting root@localhost:3306/sharing
+2018-03-26 09:34:36,917 INFO 61410 [egg-static] starting static serve /public/ -> /Users/pengcheng/ssrProjectDemo/public
+2018-03-26 09:34:36,921 INFO 61410 [egg-security] use methodnoallow middleware
+2018-03-26 09:34:36,921 INFO 61410 [egg-security] use noopen middleware
+2018-03-26 09:34:36,922 INFO 61410 [egg-security] use nosniff middleware
+2018-03-26 09:34:36,922 INFO 61410 [egg-security] use xssProtection middleware
+2018-03-26 09:34:36,923 INFO 61410 [egg-security] use xframe middleware
+2018-03-26 09:34:36,923 INFO 61410 [egg-security] use dta middleware
+2018-03-26 09:34:36,923 INFO 61410 [egg-security] compose 6 middlewares into one security middleware
+2018-03-26 09:34:36,979 INFO 61410 [egg-watcher:app] watcher start success
+2018-03-26 09:34:36,981 INFO 61410 [egg-mysql] instance[0] status OK, rds currentTime: Mon Mar 26 2018 09:34:36 GMT+0800 (CST)
+2018-03-26 09:34:36,724 INFO 61409 [egg:logger] init all loggers with options: {"dir":"/Users/pengcheng/ssrProjectDemo/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"ssrProjectDemo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-03-26 09:34:36,780 INFO 61409 [egg-schedule]: register schedule /Users/pengcheng/ssrProjectDemo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-03-26 09:34:36,780 INFO 61409 [egg-schedule]: register schedule /Users/pengcheng/ssrProjectDemo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-03-26 09:34:36,790 INFO 61409 [egg-mysql] connecting root@localhost:3306/sharing
+2018-03-26 09:34:36,918 INFO 61409 [egg-static] starting static serve /public/ -> /Users/pengcheng/ssrProjectDemo/public
+2018-03-26 09:34:36,921 INFO 61409 [egg-security] use methodnoallow middleware
+2018-03-26 09:34:36,921 INFO 61409 [egg-security] use noopen middleware
+2018-03-26 09:34:36,922 INFO 61409 [egg-security] use nosniff middleware
+2018-03-26 09:34:36,922 INFO 61409 [egg-security] use xssProtection middleware
+2018-03-26 09:34:36,923 INFO 61409 [egg-security] use xframe middleware
+2018-03-26 09:34:36,923 INFO 61409 [egg-security] use dta middleware
+2018-03-26 09:34:36,923 INFO 61409 [egg-security] compose 6 middlewares into one security middleware
+2018-03-26 09:34:36,978 INFO 61409 [egg-watcher:app] watcher start success
+2018-03-26 09:34:36,988 INFO 61409 [egg-mysql] instance[0] status OK, rds currentTime: Mon Mar 26 2018 09:34:36 GMT+0800 (CST)
+2018-03-26 09:34:36,725 INFO 61411 [egg:logger] init all loggers with options: {"dir":"/Users/pengcheng/ssrProjectDemo/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"ssrProjectDemo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-03-26 09:34:36,780 INFO 61411 [egg-schedule]: register schedule /Users/pengcheng/ssrProjectDemo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-03-26 09:34:36,780 INFO 61411 [egg-schedule]: register schedule /Users/pengcheng/ssrProjectDemo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-03-26 09:34:36,791 INFO 61411 [egg-mysql] connecting root@localhost:3306/sharing
+2018-03-26 09:34:36,917 INFO 61411 [egg-static] starting static serve /public/ -> /Users/pengcheng/ssrProjectDemo/public
+2018-03-26 09:34:36,920 INFO 61411 [egg-security] use methodnoallow middleware
+2018-03-26 09:34:36,921 INFO 61411 [egg-security] use noopen middleware
+2018-03-26 09:34:36,922 INFO 61411 [egg-security] use nosniff middleware
+2018-03-26 09:34:36,922 INFO 61411 [egg-security] use xssProtection middleware
+2018-03-26 09:34:36,923 INFO 61411 [egg-security] use xframe middleware
+2018-03-26 09:34:36,923 INFO 61411 [egg-security] use dta middleware
+2018-03-26 09:34:36,923 INFO 61411 [egg-security] compose 6 middlewares into one security middleware
+2018-03-26 09:34:36,998 INFO 61411 [egg-watcher:app] watcher start success
+2018-03-26 09:34:37,002 INFO 61411 [egg-mysql] instance[0] status OK, rds currentTime: Mon Mar 26 2018 09:34:37 GMT+0800 (CST)
+2018-03-26 09:34:36,727 INFO 61412 [egg:logger] init all loggers with options: {"dir":"/Users/pengcheng/ssrProjectDemo/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"ssrProjectDemo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-03-26 09:34:36,787 INFO 61412 [egg-schedule]: register schedule /Users/pengcheng/ssrProjectDemo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-03-26 09:34:36,787 INFO 61412 [egg-schedule]: register schedule /Users/pengcheng/ssrProjectDemo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-03-26 09:34:36,798 INFO 61412 [egg-mysql] connecting root@localhost:3306/sharing
+2018-03-26 09:34:36,933 INFO 61412 [egg-static] starting static serve /public/ -> /Users/pengcheng/ssrProjectDemo/public
+2018-03-26 09:34:36,936 INFO 61412 [egg-security] use methodnoallow middleware
+2018-03-26 09:34:36,937 INFO 61412 [egg-security] use noopen middleware
+2018-03-26 09:34:36,937 INFO 61412 [egg-security] use nosniff middleware
+2018-03-26 09:34:36,938 INFO 61412 [egg-security] use xssProtection middleware
+2018-03-26 09:34:36,938 INFO 61412 [egg-security] use xframe middleware
+2018-03-26 09:34:36,938 INFO 61412 [egg-security] use dta middleware
+2018-03-26 09:34:36,938 INFO 61412 [egg-security] compose 6 middlewares into one security middleware
+2018-03-26 09:34:36,982 INFO 61412 [egg-watcher:app] watcher start success
+2018-03-26 09:34:36,986 INFO 61412 [egg-mysql] instance[0] status OK, rds currentTime: Mon Mar 26 2018 09:34:36 GMT+0800 (CST)
+2018-03-26 09:34:36,740 INFO 61415 [egg:logger] init all loggers with options: {"dir":"/Users/pengcheng/ssrProjectDemo/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"ssrProjectDemo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-03-26 09:34:36,801 INFO 61415 [egg-schedule]: register schedule /Users/pengcheng/ssrProjectDemo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-03-26 09:34:36,801 INFO 61415 [egg-schedule]: register schedule /Users/pengcheng/ssrProjectDemo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-03-26 09:34:36,811 INFO 61415 [egg-mysql] connecting root@localhost:3306/sharing
+2018-03-26 09:34:36,950 INFO 61415 [egg-static] starting static serve /public/ -> /Users/pengcheng/ssrProjectDemo/public
+2018-03-26 09:34:36,954 INFO 61415 [egg-security] use methodnoallow middleware
+2018-03-26 09:34:36,954 INFO 61415 [egg-security] use noopen middleware
+2018-03-26 09:34:36,955 INFO 61415 [egg-security] use nosniff middleware
+2018-03-26 09:34:36,955 INFO 61415 [egg-security] use xssProtection middleware
+2018-03-26 09:34:36,956 INFO 61415 [egg-security] use xframe middleware
+2018-03-26 09:34:36,956 INFO 61415 [egg-security] use dta middleware
+2018-03-26 09:34:36,956 INFO 61415 [egg-security] compose 6 middlewares into one security middleware
+2018-03-26 09:34:36,998 INFO 61415 [egg-watcher:app] watcher start success
+2018-03-26 09:34:37,002 INFO 61415 [egg-mysql] instance[0] status OK, rds currentTime: Mon Mar 26 2018 09:34:36 GMT+0800 (CST)
+2018-03-26 09:34:36,745 INFO 61413 [egg:logger] init all loggers with options: {"dir":"/Users/pengcheng/ssrProjectDemo/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"ssrProjectDemo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-03-26 09:34:36,801 INFO 61413 [egg-schedule]: register schedule /Users/pengcheng/ssrProjectDemo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-03-26 09:34:36,801 INFO 61413 [egg-schedule]: register schedule /Users/pengcheng/ssrProjectDemo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-03-26 09:34:36,813 INFO 61413 [egg-mysql] connecting root@localhost:3306/sharing
+2018-03-26 09:34:36,942 INFO 61413 [egg-static] starting static serve /public/ -> /Users/pengcheng/ssrProjectDemo/public
+2018-03-26 09:34:36,945 INFO 61413 [egg-security] use methodnoallow middleware
+2018-03-26 09:34:36,945 INFO 61413 [egg-security] use noopen middleware
+2018-03-26 09:34:36,946 INFO 61413 [egg-security] use nosniff middleware
+2018-03-26 09:34:36,946 INFO 61413 [egg-security] use xssProtection middleware
+2018-03-26 09:34:36,946 INFO 61413 [egg-security] use xframe middleware
+2018-03-26 09:34:36,947 INFO 61413 [egg-security] use dta middleware
+2018-03-26 09:34:36,947 INFO 61413 [egg-security] compose 6 middlewares into one security middleware
+2018-03-26 09:34:36,987 INFO 61413 [egg-watcher:app] watcher start success
+2018-03-26 09:34:36,991 INFO 61413 [egg-mysql] instance[0] status OK, rds currentTime: Mon Mar 26 2018 09:34:36 GMT+0800 (CST)
+2018-03-26 09:34:36,752 INFO 61414 [egg:logger] init all loggers with options: {"dir":"/Users/pengcheng/ssrProjectDemo/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"ssrProjectDemo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-03-26 09:34:36,814 INFO 61414 [egg-schedule]: register schedule /Users/pengcheng/ssrProjectDemo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-03-26 09:34:36,814 INFO 61414 [egg-schedule]: register schedule /Users/pengcheng/ssrProjectDemo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-03-26 09:34:36,832 INFO 61414 [egg-mysql] connecting root@localhost:3306/sharing
+2018-03-26 09:34:36,953 INFO 61414 [egg-static] starting static serve /public/ -> /Users/pengcheng/ssrProjectDemo/public
+2018-03-26 09:34:36,956 INFO 61414 [egg-security] use methodnoallow middleware
+2018-03-26 09:34:36,956 INFO 61414 [egg-security] use noopen middleware
+2018-03-26 09:34:36,957 INFO 61414 [egg-security] use nosniff middleware
+2018-03-26 09:34:36,957 INFO 61414 [egg-security] use xssProtection middleware
+2018-03-26 09:34:36,958 INFO 61414 [egg-security] use xframe middleware
+2018-03-26 09:34:36,958 INFO 61414 [egg-security] use dta middleware
+2018-03-26 09:34:36,958 INFO 61414 [egg-security] compose 6 middlewares into one security middleware
+2018-03-26 09:34:36,998 INFO 61414 [egg-watcher:app] watcher start success
+2018-03-26 09:34:37,003 INFO 61414 [egg-mysql] instance[0] status OK, rds currentTime: Mon Mar 26 2018 09:34:37 GMT+0800 (CST)
+2018-03-26 09:34:36,810 INFO 61416 [egg:logger] init all loggers with options: {"dir":"/Users/pengcheng/ssrProjectDemo/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"ssrProjectDemo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-03-26 09:34:36,903 INFO 61416 [egg-schedule]: register schedule /Users/pengcheng/ssrProjectDemo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-03-26 09:34:36,903 INFO 61416 [egg-schedule]: register schedule /Users/pengcheng/ssrProjectDemo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-03-26 09:34:36,914 INFO 61416 [egg-mysql] connecting root@localhost:3306/sharing
+2018-03-26 09:34:37,019 INFO 61416 [egg-static] starting static serve /public/ -> /Users/pengcheng/ssrProjectDemo/public
+2018-03-26 09:34:37,022 INFO 61416 [egg-security] use methodnoallow middleware
+2018-03-26 09:34:37,022 INFO 61416 [egg-security] use noopen middleware
+2018-03-26 09:34:37,022 INFO 61416 [egg-security] use nosniff middleware
+2018-03-26 09:34:37,022 INFO 61416 [egg-security] use xssProtection middleware
+2018-03-26 09:34:37,023 INFO 61416 [egg-security] use xframe middleware
+2018-03-26 09:34:37,023 INFO 61416 [egg-security] use dta middleware
+2018-03-26 09:34:37,023 INFO 61416 [egg-security] compose 6 middlewares into one security middleware
+2018-03-26 09:34:37,055 INFO 61416 [egg-watcher:app] watcher start success
+2018-03-26 09:34:37,058 INFO 61416 [egg-mysql] instance[0] status OK, rds currentTime: Mon Mar 26 2018 09:34:37 GMT+0800 (CST)
+2018-03-28 21:37:42,058 INFO 12275 [egg:logger] init all loggers with options: {"dir":"/Users/pengcheng/ssrProjectDemo/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"ssrProjectDemo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-03-28 21:37:42,126 INFO 12275 [egg-schedule]: register schedule /Users/pengcheng/ssrProjectDemo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-03-28 21:37:42,126 INFO 12275 [egg-schedule]: register schedule /Users/pengcheng/ssrProjectDemo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-03-28 21:37:42,139 INFO 12275 [egg-mysql] connecting root@localhost:3306/sharing
+2018-03-28 21:37:42,283 INFO 12275 [egg-static] starting static serve /public/ -> /Users/pengcheng/ssrProjectDemo/public
+2018-03-28 21:37:42,287 INFO 12275 [egg-security] use methodnoallow middleware
+2018-03-28 21:37:42,287 INFO 12275 [egg-security] use noopen middleware
+2018-03-28 21:37:42,288 INFO 12275 [egg-security] use nosniff middleware
+2018-03-28 21:37:42,288 INFO 12275 [egg-security] use xssProtection middleware
+2018-03-28 21:37:42,288 INFO 12275 [egg-security] use xframe middleware
+2018-03-28 21:37:42,289 INFO 12275 [egg-security] use dta middleware
+2018-03-28 21:37:42,289 INFO 12275 [egg-security] compose 6 middlewares into one security middleware
+2018-03-28 21:37:42,347 INFO 12275 [egg-watcher:app] watcher start success
+2018-03-28 21:37:42,407 INFO 12275 [egg-mysql] instance[0] status OK, rds currentTime: Wed Mar 28 2018 21:37:42 GMT+0800 (CST)
+2018-03-28 21:37:42,057 INFO 12274 [egg:logger] init all loggers with options: {"dir":"/Users/pengcheng/ssrProjectDemo/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"ssrProjectDemo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-03-28 21:37:42,114 INFO 12274 [egg-schedule]: register schedule /Users/pengcheng/ssrProjectDemo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-03-28 21:37:42,114 INFO 12274 [egg-schedule]: register schedule /Users/pengcheng/ssrProjectDemo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-03-28 21:37:42,127 INFO 12274 [egg-mysql] connecting root@localhost:3306/sharing
+2018-03-28 21:37:42,281 INFO 12274 [egg-static] starting static serve /public/ -> /Users/pengcheng/ssrProjectDemo/public
+2018-03-28 21:37:42,284 INFO 12274 [egg-security] use methodnoallow middleware
+2018-03-28 21:37:42,285 INFO 12274 [egg-security] use noopen middleware
+2018-03-28 21:37:42,285 INFO 12274 [egg-security] use nosniff middleware
+2018-03-28 21:37:42,286 INFO 12274 [egg-security] use xssProtection middleware
+2018-03-28 21:37:42,287 INFO 12274 [egg-security] use xframe middleware
+2018-03-28 21:37:42,288 INFO 12274 [egg-security] use dta middleware
+2018-03-28 21:37:42,288 INFO 12274 [egg-security] compose 6 middlewares into one security middleware
+2018-03-28 21:37:42,371 INFO 12274 [egg-watcher:app] watcher start success
+2018-03-28 21:37:42,373 INFO 12274 [egg-mysql] instance[0] status OK, rds currentTime: Wed Mar 28 2018 21:37:42 GMT+0800 (CST)
+2018-03-28 21:37:42,061 INFO 12276 [egg:logger] init all loggers with options: {"dir":"/Users/pengcheng/ssrProjectDemo/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"ssrProjectDemo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-03-28 21:37:42,132 INFO 12276 [egg-schedule]: register schedule /Users/pengcheng/ssrProjectDemo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-03-28 21:37:42,132 INFO 12276 [egg-schedule]: register schedule /Users/pengcheng/ssrProjectDemo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-03-28 21:37:42,147 INFO 12276 [egg-mysql] connecting root@localhost:3306/sharing
+2018-03-28 21:37:42,281 INFO 12276 [egg-static] starting static serve /public/ -> /Users/pengcheng/ssrProjectDemo/public
+2018-03-28 21:37:42,284 INFO 12276 [egg-security] use methodnoallow middleware
+2018-03-28 21:37:42,285 INFO 12276 [egg-security] use noopen middleware
+2018-03-28 21:37:42,285 INFO 12276 [egg-security] use nosniff middleware
+2018-03-28 21:37:42,286 INFO 12276 [egg-security] use xssProtection middleware
+2018-03-28 21:37:42,287 INFO 12276 [egg-security] use xframe middleware
+2018-03-28 21:37:42,288 INFO 12276 [egg-security] use dta middleware
+2018-03-28 21:37:42,288 INFO 12276 [egg-security] compose 6 middlewares into one security middleware
+2018-03-28 21:37:42,397 INFO 12276 [egg-watcher:app] watcher start success
+2018-03-28 21:37:42,400 INFO 12276 [egg-mysql] instance[0] status OK, rds currentTime: Wed Mar 28 2018 21:37:42 GMT+0800 (CST)
+2018-03-28 21:37:42,100 INFO 12273 [egg:logger] init all loggers with options: {"dir":"/Users/pengcheng/ssrProjectDemo/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"ssrProjectDemo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-03-28 21:37:42,164 INFO 12273 [egg-schedule]: register schedule /Users/pengcheng/ssrProjectDemo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-03-28 21:37:42,164 INFO 12273 [egg-schedule]: register schedule /Users/pengcheng/ssrProjectDemo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-03-28 21:37:42,176 INFO 12273 [egg-mysql] connecting root@localhost:3306/sharing
+2018-03-28 21:37:42,281 INFO 12273 [egg-static] starting static serve /public/ -> /Users/pengcheng/ssrProjectDemo/public
+2018-03-28 21:37:42,284 INFO 12273 [egg-security] use methodnoallow middleware
+2018-03-28 21:37:42,285 INFO 12273 [egg-security] use noopen middleware
+2018-03-28 21:37:42,285 INFO 12273 [egg-security] use nosniff middleware
+2018-03-28 21:37:42,286 INFO 12273 [egg-security] use xssProtection middleware
+2018-03-28 21:37:42,287 INFO 12273 [egg-security] use xframe middleware
+2018-03-28 21:37:42,288 INFO 12273 [egg-security] use dta middleware
+2018-03-28 21:37:42,288 INFO 12273 [egg-security] compose 6 middlewares into one security middleware
+2018-03-28 21:37:42,331 INFO 12273 [egg-watcher:app] watcher start success
+2018-03-28 21:37:42,378 INFO 12273 [egg-mysql] instance[0] status OK, rds currentTime: Wed Mar 28 2018 21:37:42 GMT+0800 (CST)
+2018-03-28 21:37:42,137 INFO 12278 [egg:logger] init all loggers with options: {"dir":"/Users/pengcheng/ssrProjectDemo/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"ssrProjectDemo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-03-28 21:37:42,198 INFO 12278 [egg-schedule]: register schedule /Users/pengcheng/ssrProjectDemo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-03-28 21:37:42,198 INFO 12278 [egg-schedule]: register schedule /Users/pengcheng/ssrProjectDemo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-03-28 21:37:42,209 INFO 12278 [egg-mysql] connecting root@localhost:3306/sharing
+2018-03-28 21:37:42,331 INFO 12278 [egg-static] starting static serve /public/ -> /Users/pengcheng/ssrProjectDemo/public
+2018-03-28 21:37:42,335 INFO 12278 [egg-security] use methodnoallow middleware
+2018-03-28 21:37:42,335 INFO 12278 [egg-security] use noopen middleware
+2018-03-28 21:37:42,335 INFO 12278 [egg-security] use nosniff middleware
+2018-03-28 21:37:42,336 INFO 12278 [egg-security] use xssProtection middleware
+2018-03-28 21:37:42,336 INFO 12278 [egg-security] use xframe middleware
+2018-03-28 21:37:42,337 INFO 12278 [egg-security] use dta middleware
+2018-03-28 21:37:42,337 INFO 12278 [egg-security] compose 6 middlewares into one security middleware
+2018-03-28 21:37:42,394 INFO 12278 [egg-watcher:app] watcher start success
+2018-03-28 21:37:42,398 INFO 12278 [egg-mysql] instance[0] status OK, rds currentTime: Wed Mar 28 2018 21:37:42 GMT+0800 (CST)
+2018-03-28 21:37:42,153 INFO 12280 [egg:logger] init all loggers with options: {"dir":"/Users/pengcheng/ssrProjectDemo/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"ssrProjectDemo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-03-28 21:37:42,211 INFO 12280 [egg-schedule]: register schedule /Users/pengcheng/ssrProjectDemo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-03-28 21:37:42,211 INFO 12280 [egg-schedule]: register schedule /Users/pengcheng/ssrProjectDemo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-03-28 21:37:42,222 INFO 12280 [egg-mysql] connecting root@localhost:3306/sharing
+2018-03-28 21:37:42,329 INFO 12280 [egg-static] starting static serve /public/ -> /Users/pengcheng/ssrProjectDemo/public
+2018-03-28 21:37:42,332 INFO 12280 [egg-security] use methodnoallow middleware
+2018-03-28 21:37:42,332 INFO 12280 [egg-security] use noopen middleware
+2018-03-28 21:37:42,332 INFO 12280 [egg-security] use nosniff middleware
+2018-03-28 21:37:42,333 INFO 12280 [egg-security] use xssProtection middleware
+2018-03-28 21:37:42,333 INFO 12280 [egg-security] use xframe middleware
+2018-03-28 21:37:42,334 INFO 12280 [egg-security] use dta middleware
+2018-03-28 21:37:42,334 INFO 12280 [egg-security] compose 6 middlewares into one security middleware
+2018-03-28 21:37:42,373 INFO 12280 [egg-watcher:app] watcher start success
+2018-03-28 21:37:42,413 INFO 12280 [egg-mysql] instance[0] status OK, rds currentTime: Wed Mar 28 2018 21:37:42 GMT+0800 (CST)
+2018-03-28 21:37:42,157 INFO 12279 [egg:logger] init all loggers with options: {"dir":"/Users/pengcheng/ssrProjectDemo/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"ssrProjectDemo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-03-28 21:37:42,232 INFO 12279 [egg-schedule]: register schedule /Users/pengcheng/ssrProjectDemo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-03-28 21:37:42,232 INFO 12279 [egg-schedule]: register schedule /Users/pengcheng/ssrProjectDemo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-03-28 21:37:42,247 INFO 12279 [egg-mysql] connecting root@localhost:3306/sharing
+2018-03-28 21:37:42,392 INFO 12279 [egg-static] starting static serve /public/ -> /Users/pengcheng/ssrProjectDemo/public
+2018-03-28 21:37:42,395 INFO 12279 [egg-security] use methodnoallow middleware
+2018-03-28 21:37:42,396 INFO 12279 [egg-security] use noopen middleware
+2018-03-28 21:37:42,396 INFO 12279 [egg-security] use nosniff middleware
+2018-03-28 21:37:42,397 INFO 12279 [egg-security] use xssProtection middleware
+2018-03-28 21:37:42,397 INFO 12279 [egg-security] use xframe middleware
+2018-03-28 21:37:42,397 INFO 12279 [egg-security] use dta middleware
+2018-03-28 21:37:42,397 INFO 12279 [egg-security] compose 6 middlewares into one security middleware
+2018-03-28 21:37:42,443 INFO 12279 [egg-watcher:app] watcher start success
+2018-03-28 21:37:42,445 INFO 12279 [egg-mysql] instance[0] status OK, rds currentTime: Wed Mar 28 2018 21:37:42 GMT+0800 (CST)
+2018-03-28 21:37:42,202 INFO 12277 [egg:logger] init all loggers with options: {"dir":"/Users/pengcheng/ssrProjectDemo/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"ssrProjectDemo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-03-28 21:37:42,259 INFO 12277 [egg-schedule]: register schedule /Users/pengcheng/ssrProjectDemo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-03-28 21:37:42,259 INFO 12277 [egg-schedule]: register schedule /Users/pengcheng/ssrProjectDemo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-03-28 21:37:42,270 INFO 12277 [egg-mysql] connecting root@localhost:3306/sharing
+2018-03-28 21:37:42,421 INFO 12277 [egg-static] starting static serve /public/ -> /Users/pengcheng/ssrProjectDemo/public
+2018-03-28 21:37:42,424 INFO 12277 [egg-security] use methodnoallow middleware
+2018-03-28 21:37:42,425 INFO 12277 [egg-security] use noopen middleware
+2018-03-28 21:37:42,425 INFO 12277 [egg-security] use nosniff middleware
+2018-03-28 21:37:42,425 INFO 12277 [egg-security] use xssProtection middleware
+2018-03-28 21:37:42,426 INFO 12277 [egg-security] use xframe middleware
+2018-03-28 21:37:42,426 INFO 12277 [egg-security] use dta middleware
+2018-03-28 21:37:42,426 INFO 12277 [egg-security] compose 6 middlewares into one security middleware
+2018-03-28 21:37:42,458 INFO 12277 [egg-watcher:app] watcher start success
+2018-03-28 21:37:42,460 INFO 12277 [egg-mysql] instance[0] status OK, rds currentTime: Wed Mar 28 2018 21:37:42 GMT+0800 (CST)
+2018-03-28 21:46:00,863 WARN 12274 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-28 21:46:00,866 WARN 12276 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-28 21:46:00,867 WARN 12279 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-28 21:46:00,863 WARN 12280 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-28 21:46:00,863 WARN 12273 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-28 21:46:00,867 WARN 12277 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-28 21:46:00,871 WARN 12275 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-28 21:48:04,205 INFO 12486 [egg:logger] init all loggers with options: {"dir":"/Users/pengcheng/ssrProjectDemo/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"ssrProjectDemo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-03-28 21:48:04,268 INFO 12486 [egg-schedule]: register schedule /Users/pengcheng/ssrProjectDemo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-03-28 21:48:04,268 INFO 12486 [egg-schedule]: register schedule /Users/pengcheng/ssrProjectDemo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-03-28 21:48:04,278 INFO 12486 [egg-mysql] connecting root@localhost:3306/sharing
+2018-03-28 21:48:04,401 INFO 12486 [egg-static] starting static serve /public/ -> /Users/pengcheng/ssrProjectDemo/public
+2018-03-28 21:48:04,404 INFO 12486 [egg-security] use methodnoallow middleware
+2018-03-28 21:48:04,404 INFO 12486 [egg-security] use noopen middleware
+2018-03-28 21:48:04,405 INFO 12486 [egg-security] use nosniff middleware
+2018-03-28 21:48:04,406 INFO 12486 [egg-security] use xssProtection middleware
+2018-03-28 21:48:04,406 INFO 12486 [egg-security] use xframe middleware
+2018-03-28 21:48:04,406 INFO 12486 [egg-security] use dta middleware
+2018-03-28 21:48:04,406 INFO 12486 [egg-security] compose 6 middlewares into one security middleware
+2018-03-28 21:48:04,451 INFO 12486 [egg-watcher:app] watcher start success
+2018-03-28 21:48:04,454 INFO 12486 [egg-mysql] instance[0] status OK, rds currentTime: Wed Mar 28 2018 21:48:04 GMT+0800 (CST)
+2018-03-28 21:48:04,203 INFO 12488 [egg:logger] init all loggers with options: {"dir":"/Users/pengcheng/ssrProjectDemo/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"ssrProjectDemo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-03-28 21:48:04,268 INFO 12488 [egg-schedule]: register schedule /Users/pengcheng/ssrProjectDemo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-03-28 21:48:04,268 INFO 12488 [egg-schedule]: register schedule /Users/pengcheng/ssrProjectDemo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-03-28 21:48:04,278 INFO 12488 [egg-mysql] connecting root@localhost:3306/sharing
+2018-03-28 21:48:04,401 INFO 12488 [egg-static] starting static serve /public/ -> /Users/pengcheng/ssrProjectDemo/public
+2018-03-28 21:48:04,404 INFO 12488 [egg-security] use methodnoallow middleware
+2018-03-28 21:48:04,405 INFO 12488 [egg-security] use noopen middleware
+2018-03-28 21:48:04,405 INFO 12488 [egg-security] use nosniff middleware
+2018-03-28 21:48:04,405 INFO 12488 [egg-security] use xssProtection middleware
+2018-03-28 21:48:04,406 INFO 12488 [egg-security] use xframe middleware
+2018-03-28 21:48:04,406 INFO 12488 [egg-security] use dta middleware
+2018-03-28 21:48:04,406 INFO 12488 [egg-security] compose 6 middlewares into one security middleware
+2018-03-28 21:48:04,449 INFO 12488 [egg-watcher:app] watcher start success
+2018-03-28 21:48:04,451 INFO 12488 [egg-mysql] instance[0] status OK, rds currentTime: Wed Mar 28 2018 21:48:04 GMT+0800 (CST)
+2018-03-28 21:48:04,214 INFO 12491 [egg:logger] init all loggers with options: {"dir":"/Users/pengcheng/ssrProjectDemo/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"ssrProjectDemo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-03-28 21:48:04,272 INFO 12491 [egg-schedule]: register schedule /Users/pengcheng/ssrProjectDemo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-03-28 21:48:04,272 INFO 12491 [egg-schedule]: register schedule /Users/pengcheng/ssrProjectDemo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-03-28 21:48:04,283 INFO 12491 [egg-mysql] connecting root@localhost:3306/sharing
+2018-03-28 21:48:04,417 INFO 12491 [egg-static] starting static serve /public/ -> /Users/pengcheng/ssrProjectDemo/public
+2018-03-28 21:48:04,420 INFO 12491 [egg-security] use methodnoallow middleware
+2018-03-28 21:48:04,421 INFO 12491 [egg-security] use noopen middleware
+2018-03-28 21:48:04,421 INFO 12491 [egg-security] use nosniff middleware
+2018-03-28 21:48:04,421 INFO 12491 [egg-security] use xssProtection middleware
+2018-03-28 21:48:04,422 INFO 12491 [egg-security] use xframe middleware
+2018-03-28 21:48:04,422 INFO 12491 [egg-security] use dta middleware
+2018-03-28 21:48:04,422 INFO 12491 [egg-security] compose 6 middlewares into one security middleware
+2018-03-28 21:48:04,473 INFO 12491 [egg-watcher:app] watcher start success
+2018-03-28 21:48:04,479 INFO 12491 [egg-mysql] instance[0] status OK, rds currentTime: Wed Mar 28 2018 21:48:04 GMT+0800 (CST)
+2018-03-28 21:48:04,230 INFO 12485 [egg:logger] init all loggers with options: {"dir":"/Users/pengcheng/ssrProjectDemo/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"ssrProjectDemo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-03-28 21:48:04,288 INFO 12485 [egg-schedule]: register schedule /Users/pengcheng/ssrProjectDemo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-03-28 21:48:04,288 INFO 12485 [egg-schedule]: register schedule /Users/pengcheng/ssrProjectDemo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-03-28 21:48:04,299 INFO 12485 [egg-mysql] connecting root@localhost:3306/sharing
+2018-03-28 21:48:04,485 INFO 12485 [egg-static] starting static serve /public/ -> /Users/pengcheng/ssrProjectDemo/public
+2018-03-28 21:48:04,488 INFO 12485 [egg-security] use methodnoallow middleware
+2018-03-28 21:48:04,489 INFO 12485 [egg-security] use noopen middleware
+2018-03-28 21:48:04,489 INFO 12485 [egg-security] use nosniff middleware
+2018-03-28 21:48:04,490 INFO 12485 [egg-security] use xssProtection middleware
+2018-03-28 21:48:04,491 INFO 12485 [egg-security] use xframe middleware
+2018-03-28 21:48:04,492 INFO 12485 [egg-security] use dta middleware
+2018-03-28 21:48:04,492 INFO 12485 [egg-security] compose 6 middlewares into one security middleware
+2018-03-28 21:48:04,528 INFO 12485 [egg-watcher:app] watcher start success
+2018-03-28 21:48:04,530 INFO 12485 [egg-mysql] instance[0] status OK, rds currentTime: Wed Mar 28 2018 21:48:04 GMT+0800 (CST)
+2018-03-28 21:48:04,233 INFO 12487 [egg:logger] init all loggers with options: {"dir":"/Users/pengcheng/ssrProjectDemo/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"ssrProjectDemo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-03-28 21:48:04,293 INFO 12487 [egg-schedule]: register schedule /Users/pengcheng/ssrProjectDemo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-03-28 21:48:04,294 INFO 12487 [egg-schedule]: register schedule /Users/pengcheng/ssrProjectDemo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-03-28 21:48:04,304 INFO 12487 [egg-mysql] connecting root@localhost:3306/sharing
+2018-03-28 21:48:04,446 INFO 12487 [egg-static] starting static serve /public/ -> /Users/pengcheng/ssrProjectDemo/public
+2018-03-28 21:48:04,450 INFO 12487 [egg-security] use methodnoallow middleware
+2018-03-28 21:48:04,450 INFO 12487 [egg-security] use noopen middleware
+2018-03-28 21:48:04,451 INFO 12487 [egg-security] use nosniff middleware
+2018-03-28 21:48:04,451 INFO 12487 [egg-security] use xssProtection middleware
+2018-03-28 21:48:04,451 INFO 12487 [egg-security] use xframe middleware
+2018-03-28 21:48:04,452 INFO 12487 [egg-security] use dta middleware
+2018-03-28 21:48:04,452 INFO 12487 [egg-security] compose 6 middlewares into one security middleware
+2018-03-28 21:48:04,497 INFO 12487 [egg-watcher:app] watcher start success
+2018-03-28 21:48:04,500 INFO 12487 [egg-mysql] instance[0] status OK, rds currentTime: Wed Mar 28 2018 21:48:04 GMT+0800 (CST)
+2018-03-28 21:48:04,233 INFO 12484 [egg:logger] init all loggers with options: {"dir":"/Users/pengcheng/ssrProjectDemo/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"ssrProjectDemo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-03-28 21:48:04,293 INFO 12484 [egg-schedule]: register schedule /Users/pengcheng/ssrProjectDemo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-03-28 21:48:04,293 INFO 12484 [egg-schedule]: register schedule /Users/pengcheng/ssrProjectDemo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-03-28 21:48:04,302 INFO 12484 [egg-mysql] connecting root@localhost:3306/sharing
+2018-03-28 21:48:04,487 INFO 12484 [egg-static] starting static serve /public/ -> /Users/pengcheng/ssrProjectDemo/public
+2018-03-28 21:48:04,490 INFO 12484 [egg-security] use methodnoallow middleware
+2018-03-28 21:48:04,490 INFO 12484 [egg-security] use noopen middleware
+2018-03-28 21:48:04,491 INFO 12484 [egg-security] use nosniff middleware
+2018-03-28 21:48:04,492 INFO 12484 [egg-security] use xssProtection middleware
+2018-03-28 21:48:04,492 INFO 12484 [egg-security] use xframe middleware
+2018-03-28 21:48:04,493 INFO 12484 [egg-security] use dta middleware
+2018-03-28 21:48:04,493 INFO 12484 [egg-security] compose 6 middlewares into one security middleware
+2018-03-28 21:48:04,528 INFO 12484 [egg-watcher:app] watcher start success
+2018-03-28 21:48:04,531 INFO 12484 [egg-mysql] instance[0] status OK, rds currentTime: Wed Mar 28 2018 21:48:04 GMT+0800 (CST)
+2018-03-28 21:48:04,234 INFO 12490 [egg:logger] init all loggers with options: {"dir":"/Users/pengcheng/ssrProjectDemo/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"ssrProjectDemo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-03-28 21:48:04,291 INFO 12490 [egg-schedule]: register schedule /Users/pengcheng/ssrProjectDemo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-03-28 21:48:04,291 INFO 12490 [egg-schedule]: register schedule /Users/pengcheng/ssrProjectDemo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-03-28 21:48:04,301 INFO 12490 [egg-mysql] connecting root@localhost:3306/sharing
+2018-03-28 21:48:04,442 INFO 12490 [egg-static] starting static serve /public/ -> /Users/pengcheng/ssrProjectDemo/public
+2018-03-28 21:48:04,446 INFO 12490 [egg-security] use methodnoallow middleware
+2018-03-28 21:48:04,446 INFO 12490 [egg-security] use noopen middleware
+2018-03-28 21:48:04,446 INFO 12490 [egg-security] use nosniff middleware
+2018-03-28 21:48:04,447 INFO 12490 [egg-security] use xssProtection middleware
+2018-03-28 21:48:04,447 INFO 12490 [egg-security] use xframe middleware
+2018-03-28 21:48:04,448 INFO 12490 [egg-security] use dta middleware
+2018-03-28 21:48:04,448 INFO 12490 [egg-security] compose 6 middlewares into one security middleware
+2018-03-28 21:48:04,494 INFO 12490 [egg-watcher:app] watcher start success
+2018-03-28 21:48:04,498 INFO 12490 [egg-mysql] instance[0] status OK, rds currentTime: Wed Mar 28 2018 21:48:04 GMT+0800 (CST)
+2018-03-28 21:52:30,345 WARN 12485 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-28 21:52:30,345 WARN 12486 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-28 21:52:30,345 WARN 12487 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-28 21:52:30,345 WARN 12490 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-28 22:02:24,002 WARN 12489 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-28 22:02:24,002 WARN 12490 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-28 22:02:24,001 WARN 12488 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-28 22:02:24,003 WARN 12484 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-28 22:33:47,943 WARN 12484 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-28 22:33:47,943 WARN 12487 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-28 22:33:47,944 WARN 12485 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-28 22:33:47,943 WARN 12488 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-28 22:33:47,943 WARN 12490 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-28 22:33:47,943 WARN 12489 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-28 22:33:47,943 WARN 12491 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-28 22:43:03,242 WARN 12488 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-28 22:43:03,242 WARN 12490 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-28 22:43:03,242 WARN 12487 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-28 22:43:03,242 WARN 12485 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-28 22:43:03,243 WARN 12484 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-28 22:43:03,242 WARN 12489 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-28 22:58:57,105 WARN 12487 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-03-28 22:58:57,122 WARN 12487 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-28 22:58:57,103 WARN 12489 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-28 22:58:57,104 WARN 12486 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-03-28 22:58:57,104 WARN 12486 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-28 22:58:57,104 WARN 12488 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-03-28 22:58:57,105 WARN 12488 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-28 22:58:57,107 WARN 12484 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-03-28 22:58:57,122 WARN 12484 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-28 23:30:10,602 WARN 12488 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-28 23:30:10,602 WARN 12484 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-28 23:30:10,601 WARN 12489 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-28 23:30:10,603 WARN 12491 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-28 23:30:10,603 WARN 12490 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-28 23:30:10,602 WARN 12486 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-28 23:30:10,603 WARN 12487 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-28 23:59:28,459 WARN 12485 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-28 23:59:28,458 WARN 12489 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-28 23:59:28,459 WARN 12490 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-28 23:59:28,458 WARN 12486 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-29 00:17:56,244 WARN 12487 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-03-29 00:17:56,249 WARN 12487 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-29 00:17:56,244 WARN 12484 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-03-29 00:17:56,249 WARN 12484 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-29 00:17:56,244 WARN 12486 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-03-29 00:17:56,250 WARN 12486 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-29 00:17:56,244 WARN 12485 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-03-29 00:17:56,250 WARN 12485 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-29 00:17:56,242 WARN 12491 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-03-29 00:17:56,242 WARN 12491 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-29 00:17:56,242 WARN 12489 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-03-29 00:17:56,249 WARN 12489 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-29 00:30:52,069 WARN 12489 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-29 00:30:52,069 WARN 12486 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-29 00:30:52,069 WARN 12490 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-29 00:30:52,070 WARN 12485 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-29 00:30:52,069 WARN 12488 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-29 00:30:52,069 WARN 12487 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-29 00:30:52,069 WARN 12491 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-29 00:30:52,070 WARN 12484 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-29 00:50:40,032 WARN 12484 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-03-29 00:50:40,032 WARN 12484 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-29 00:50:40,031 WARN 12489 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-03-29 00:50:40,031 WARN 12489 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-29 00:50:40,031 WARN 12491 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-03-29 00:50:40,031 WARN 12491 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-29 00:50:40,032 WARN 12487 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-03-29 00:50:40,032 WARN 12487 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-29 00:50:40,031 WARN 12486 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-03-29 00:50:40,031 WARN 12486 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-29 01:05:49,579 WARN 12484 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-29 01:05:49,578 WARN 12490 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-29 01:05:49,578 WARN 12485 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-29 01:05:49,578 WARN 12489 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-29 01:05:49,578 WARN 12486 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-29 01:05:49,578 WARN 12488 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-29 01:14:29,706 WARN 12488 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-29 01:14:29,707 WARN 12484 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-03-29 01:14:29,707 WARN 12484 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-29 01:14:29,707 WARN 12487 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-03-29 01:14:29,708 WARN 12487 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-29 01:14:29,707 WARN 12486 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-03-29 01:14:29,707 WARN 12486 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-29 01:14:29,707 WARN 12489 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-03-29 01:14:29,707 WARN 12489 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-29 01:18:13,415 WARN 12489 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-29 01:18:13,415 WARN 12484 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-29 01:18:13,415 WARN 12486 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-29 01:18:13,416 WARN 12487 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-29 01:18:13,416 WARN 12485 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-29 01:18:13,415 WARN 12488 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-29 02:23:25,418 WARN 12486 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-29 02:23:25,418 WARN 12489 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-29 02:23:25,418 WARN 12488 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-29 02:23:25,418 WARN 12484 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-29 02:23:25,419 WARN 12487 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-29 03:17:27,617 WARN 12485 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-03-29 03:17:27,618 WARN 12485 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-29 03:17:27,616 WARN 12484 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-03-29 03:17:27,617 WARN 12484 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-29 03:17:27,616 WARN 12488 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-29 03:17:27,617 WARN 12487 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-03-29 03:17:27,618 WARN 12487 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-29 03:17:27,616 WARN 12491 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-29 03:17:27,616 WARN 12486 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-03-29 03:17:27,617 WARN 12486 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-29 03:17:27,616 WARN 12489 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-03-29 03:17:27,617 WARN 12489 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-29 04:33:23,340 WARN 12489 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-29 04:33:23,341 WARN 12485 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-29 04:33:23,339 WARN 12488 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-29 04:33:23,340 WARN 12484 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-29 04:33:23,340 WARN 12486 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-29 07:36:58,534 WARN 12487 nodejs.ResponseTimeoutError: register to channel: Watcher failed, will retry after 3s, Server no response in 60000ms, address#127.0.0.1:57705
+    at Timeout._invokes.set.timer.setTimeout [as _onTimeout] (/Users/pengcheng/ssrProjectDemo/node_modules/tcp-base/lib/base.js:225:21)
+    at ontimeout (timers.js:466:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:267:5)
+socketMeta: { id: 197, dataLength: 75, bufferSize1: 0, bufferSize2: 0, startTime: 1522269203373, endTime: 1522269203373, writeSuccess: true }
+name: 'ResponseTimeoutError'
+pid: 12487
+hostname: Chriss-Laptop.local
+
+2018-03-29 07:36:58,504 WARN 12490 nodejs.ResponseTimeoutError: register to channel: Watcher failed, will retry after 3s, Server no response in 60000ms, address#127.0.0.1:57705
+    at Timeout._invokes.set.timer.setTimeout [as _onTimeout] (/Users/pengcheng/ssrProjectDemo/node_modules/tcp-base/lib/base.js:225:21)
+    at ontimeout (timers.js:466:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:267:5)
+socketMeta: { id: 196, dataLength: 75, bufferSize1: 0, bufferSize2: 0, startTime: 1522269203343, endTime: 1522269203343, writeSuccess: true }
+name: 'ResponseTimeoutError'
+pid: 12490
+hostname: Chriss-Laptop.local
+
+2018-03-29 07:36:58,503 WARN 12488 nodejs.ResponseTimeoutError: register to channel: Watcher failed, will retry after 3s, Server no response in 60000ms, address#127.0.0.1:57705
+    at Timeout._invokes.set.timer.setTimeout [as _onTimeout] (/Users/pengcheng/ssrProjectDemo/node_modules/tcp-base/lib/base.js:225:21)
+    at ontimeout (timers.js:466:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:267:5)
+socketMeta: { id: 197, dataLength: 75, bufferSize1: 0, bufferSize2: 0, startTime: 1522269203343, endTime: 1522269203343, writeSuccess: true }
+name: 'ResponseTimeoutError'
+pid: 12488
+hostname: Chriss-Laptop.local
+
+2018-03-29 07:36:58,534 WARN 12489 nodejs.ResponseTimeoutError: register to channel: Watcher failed, will retry after 3s, Server no response in 60000ms, address#127.0.0.1:57705
+    at Timeout._invokes.set.timer.setTimeout [as _onTimeout] (/Users/pengcheng/ssrProjectDemo/node_modules/tcp-base/lib/base.js:225:21)
+    at ontimeout (timers.js:466:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:267:5)
+socketMeta: { id: 196, dataLength: 75, bufferSize1: 0, bufferSize2: 0, startTime: 1522269203373, endTime: 1522269203373, writeSuccess: true }
+name: 'ResponseTimeoutError'
+pid: 12489
+hostname: Chriss-Laptop.local
+
+2018-03-29 07:36:58,534 WARN 12485 nodejs.ResponseTimeoutError: register to channel: Watcher failed, will retry after 3s, Server no response in 60000ms, address#127.0.0.1:57705
+    at Timeout._invokes.set.timer.setTimeout [as _onTimeout] (/Users/pengcheng/ssrProjectDemo/node_modules/tcp-base/lib/base.js:225:21)
+    at ontimeout (timers.js:466:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:267:5)
+socketMeta: { id: 197, dataLength: 75, bufferSize1: 0, bufferSize2: 0, startTime: 1522269203373, endTime: 1522269203373, writeSuccess: true }
+name: 'ResponseTimeoutError'
+pid: 12485
+hostname: Chriss-Laptop.local
+
+2018-03-29 07:36:58,503 WARN 12491 nodejs.ResponseTimeoutError: register to channel: Watcher failed, will retry after 3s, Server no response in 60000ms, address#127.0.0.1:57705
+    at Timeout._invokes.set.timer.setTimeout [as _onTimeout] (/Users/pengcheng/ssrProjectDemo/node_modules/tcp-base/lib/base.js:225:21)
+    at ontimeout (timers.js:466:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:267:5)
+socketMeta: { id: 197, dataLength: 75, bufferSize1: 0, bufferSize2: 0, startTime: 1522269203343, endTime: 1522269203343, writeSuccess: true }
+name: 'ResponseTimeoutError'
+pid: 12491
+hostname: Chriss-Laptop.local
+
+2018-03-29 07:36:58,504 WARN 12486 nodejs.ResponseTimeoutError: register to channel: Watcher failed, will retry after 3s, Server no response in 60000ms, address#127.0.0.1:57705
+    at Timeout._invokes.set.timer.setTimeout [as _onTimeout] (/Users/pengcheng/ssrProjectDemo/node_modules/tcp-base/lib/base.js:225:21)
+    at ontimeout (timers.js:466:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:267:5)
+socketMeta: { id: 197, dataLength: 75, bufferSize1: 0, bufferSize2: 0, startTime: 1522269203343, endTime: 1522269203344, writeSuccess: true }
+name: 'ResponseTimeoutError'
+pid: 12486
+hostname: Chriss-Laptop.local
+
+2018-03-30 18:32:22,526 INFO 7169 [egg:logger] init all loggers with options: {"dir":"/Users/pengcheng/ssrProjectDemo/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"ssrProjectDemo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-03-30 18:32:22,586 INFO 7169 [egg-schedule]: register schedule /Users/pengcheng/ssrProjectDemo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-03-30 18:32:22,586 INFO 7169 [egg-schedule]: register schedule /Users/pengcheng/ssrProjectDemo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-03-30 18:32:22,597 INFO 7169 [egg-mysql] connecting root@localhost:3306/sharing
+2018-03-30 18:32:22,699 INFO 7169 [egg-static] starting static serve /public/ -> /Users/pengcheng/ssrProjectDemo/public
+2018-03-30 18:32:22,702 INFO 7169 [egg-security] use methodnoallow middleware
+2018-03-30 18:32:22,702 INFO 7169 [egg-security] use noopen middleware
+2018-03-30 18:32:22,703 INFO 7169 [egg-security] use nosniff middleware
+2018-03-30 18:32:22,703 INFO 7169 [egg-security] use xssProtection middleware
+2018-03-30 18:32:22,703 INFO 7169 [egg-security] use xframe middleware
+2018-03-30 18:32:22,704 INFO 7169 [egg-security] use dta middleware
+2018-03-30 18:32:22,704 INFO 7169 [egg-security] compose 6 middlewares into one security middleware
+2018-03-30 18:32:22,756 INFO 7169 [egg-watcher:app] watcher start success
+2018-03-30 18:32:22,758 INFO 7169 [egg-mysql] instance[0] status OK, rds currentTime: Fri Mar 30 2018 18:32:22 GMT+0800 (CST)
+2018-03-30 18:32:22,540 INFO 7173 [egg:logger] init all loggers with options: {"dir":"/Users/pengcheng/ssrProjectDemo/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"ssrProjectDemo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-03-30 18:32:22,597 INFO 7173 [egg-schedule]: register schedule /Users/pengcheng/ssrProjectDemo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-03-30 18:32:22,597 INFO 7173 [egg-schedule]: register schedule /Users/pengcheng/ssrProjectDemo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-03-30 18:32:22,608 INFO 7173 [egg-mysql] connecting root@localhost:3306/sharing
+2018-03-30 18:32:22,709 INFO 7173 [egg-static] starting static serve /public/ -> /Users/pengcheng/ssrProjectDemo/public
+2018-03-30 18:32:22,712 INFO 7173 [egg-security] use methodnoallow middleware
+2018-03-30 18:32:22,712 INFO 7173 [egg-security] use noopen middleware
+2018-03-30 18:32:22,713 INFO 7173 [egg-security] use nosniff middleware
+2018-03-30 18:32:22,713 INFO 7173 [egg-security] use xssProtection middleware
+2018-03-30 18:32:22,713 INFO 7173 [egg-security] use xframe middleware
+2018-03-30 18:32:22,714 INFO 7173 [egg-security] use dta middleware
+2018-03-30 18:32:22,714 INFO 7173 [egg-security] compose 6 middlewares into one security middleware
+2018-03-30 18:32:22,761 INFO 7173 [egg-watcher:app] watcher start success
+2018-03-30 18:32:22,765 INFO 7173 [egg-mysql] instance[0] status OK, rds currentTime: Fri Mar 30 2018 18:32:22 GMT+0800 (CST)
+2018-03-30 18:32:22,546 INFO 7170 [egg:logger] init all loggers with options: {"dir":"/Users/pengcheng/ssrProjectDemo/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"ssrProjectDemo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-03-30 18:32:22,602 INFO 7170 [egg-schedule]: register schedule /Users/pengcheng/ssrProjectDemo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-03-30 18:32:22,603 INFO 7170 [egg-schedule]: register schedule /Users/pengcheng/ssrProjectDemo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-03-30 18:32:22,613 INFO 7170 [egg-mysql] connecting root@localhost:3306/sharing
+2018-03-30 18:32:22,718 INFO 7170 [egg-static] starting static serve /public/ -> /Users/pengcheng/ssrProjectDemo/public
+2018-03-30 18:32:22,721 INFO 7170 [egg-security] use methodnoallow middleware
+2018-03-30 18:32:22,722 INFO 7170 [egg-security] use noopen middleware
+2018-03-30 18:32:22,722 INFO 7170 [egg-security] use nosniff middleware
+2018-03-30 18:32:22,723 INFO 7170 [egg-security] use xssProtection middleware
+2018-03-30 18:32:22,723 INFO 7170 [egg-security] use xframe middleware
+2018-03-30 18:32:22,723 INFO 7170 [egg-security] use dta middleware
+2018-03-30 18:32:22,723 INFO 7170 [egg-security] compose 6 middlewares into one security middleware
+2018-03-30 18:32:22,773 INFO 7170 [egg-watcher:app] watcher start success
+2018-03-30 18:32:22,780 INFO 7170 [egg-mysql] instance[0] status OK, rds currentTime: Fri Mar 30 2018 18:32:22 GMT+0800 (CST)
+2018-03-30 18:32:22,549 INFO 7174 [egg:logger] init all loggers with options: {"dir":"/Users/pengcheng/ssrProjectDemo/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"ssrProjectDemo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-03-30 18:32:22,606 INFO 7174 [egg-schedule]: register schedule /Users/pengcheng/ssrProjectDemo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-03-30 18:32:22,606 INFO 7174 [egg-schedule]: register schedule /Users/pengcheng/ssrProjectDemo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-03-30 18:32:22,617 INFO 7174 [egg-mysql] connecting root@localhost:3306/sharing
+2018-03-30 18:32:22,719 INFO 7174 [egg-static] starting static serve /public/ -> /Users/pengcheng/ssrProjectDemo/public
+2018-03-30 18:32:22,722 INFO 7174 [egg-security] use methodnoallow middleware
+2018-03-30 18:32:22,723 INFO 7174 [egg-security] use noopen middleware
+2018-03-30 18:32:22,724 INFO 7174 [egg-security] use nosniff middleware
+2018-03-30 18:32:22,726 INFO 7174 [egg-security] use xssProtection middleware
+2018-03-30 18:32:22,726 INFO 7174 [egg-security] use xframe middleware
+2018-03-30 18:32:22,727 INFO 7174 [egg-security] use dta middleware
+2018-03-30 18:32:22,727 INFO 7174 [egg-security] compose 6 middlewares into one security middleware
+2018-03-30 18:32:22,772 INFO 7174 [egg-watcher:app] watcher start success
+2018-03-30 18:32:22,778 INFO 7174 [egg-mysql] instance[0] status OK, rds currentTime: Fri Mar 30 2018 18:32:22 GMT+0800 (CST)
+2018-03-30 18:32:22,561 INFO 7171 [egg:logger] init all loggers with options: {"dir":"/Users/pengcheng/ssrProjectDemo/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"ssrProjectDemo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-03-30 18:32:22,619 INFO 7171 [egg-schedule]: register schedule /Users/pengcheng/ssrProjectDemo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-03-30 18:32:22,619 INFO 7171 [egg-schedule]: register schedule /Users/pengcheng/ssrProjectDemo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-03-30 18:32:22,630 INFO 7171 [egg-mysql] connecting root@localhost:3306/sharing
+2018-03-30 18:32:22,737 INFO 7171 [egg-static] starting static serve /public/ -> /Users/pengcheng/ssrProjectDemo/public
+2018-03-30 18:32:22,740 INFO 7171 [egg-security] use methodnoallow middleware
+2018-03-30 18:32:22,740 INFO 7171 [egg-security] use noopen middleware
+2018-03-30 18:32:22,740 INFO 7171 [egg-security] use nosniff middleware
+2018-03-30 18:32:22,741 INFO 7171 [egg-security] use xssProtection middleware
+2018-03-30 18:32:22,741 INFO 7171 [egg-security] use xframe middleware
+2018-03-30 18:32:22,742 INFO 7171 [egg-security] use dta middleware
+2018-03-30 18:32:22,742 INFO 7171 [egg-security] compose 6 middlewares into one security middleware
+2018-03-30 18:32:22,790 INFO 7171 [egg-watcher:app] watcher start success
+2018-03-30 18:32:22,793 INFO 7171 [egg-mysql] instance[0] status OK, rds currentTime: Fri Mar 30 2018 18:32:22 GMT+0800 (CST)
+2018-03-30 18:32:22,564 INFO 7172 [egg:logger] init all loggers with options: {"dir":"/Users/pengcheng/ssrProjectDemo/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"ssrProjectDemo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-03-30 18:32:22,622 INFO 7172 [egg-schedule]: register schedule /Users/pengcheng/ssrProjectDemo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-03-30 18:32:22,622 INFO 7172 [egg-schedule]: register schedule /Users/pengcheng/ssrProjectDemo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-03-30 18:32:22,632 INFO 7172 [egg-mysql] connecting root@localhost:3306/sharing
+2018-03-30 18:32:22,737 INFO 7172 [egg-static] starting static serve /public/ -> /Users/pengcheng/ssrProjectDemo/public
+2018-03-30 18:32:22,740 INFO 7172 [egg-security] use methodnoallow middleware
+2018-03-30 18:32:22,740 INFO 7172 [egg-security] use noopen middleware
+2018-03-30 18:32:22,741 INFO 7172 [egg-security] use nosniff middleware
+2018-03-30 18:32:22,741 INFO 7172 [egg-security] use xssProtection middleware
+2018-03-30 18:32:22,742 INFO 7172 [egg-security] use xframe middleware
+2018-03-30 18:32:22,742 INFO 7172 [egg-security] use dta middleware
+2018-03-30 18:32:22,742 INFO 7172 [egg-security] compose 6 middlewares into one security middleware
+2018-03-30 18:32:22,788 INFO 7172 [egg-watcher:app] watcher start success
+2018-03-30 18:32:22,793 INFO 7172 [egg-mysql] instance[0] status OK, rds currentTime: Fri Mar 30 2018 18:32:22 GMT+0800 (CST)
+2018-03-30 18:32:22,583 INFO 7175 [egg:logger] init all loggers with options: {"dir":"/Users/pengcheng/ssrProjectDemo/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"ssrProjectDemo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-03-30 18:32:22,639 INFO 7175 [egg-schedule]: register schedule /Users/pengcheng/ssrProjectDemo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-03-30 18:32:22,639 INFO 7175 [egg-schedule]: register schedule /Users/pengcheng/ssrProjectDemo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-03-30 18:32:22,649 INFO 7175 [egg-mysql] connecting root@localhost:3306/sharing
+2018-03-30 18:32:22,757 INFO 7175 [egg-static] starting static serve /public/ -> /Users/pengcheng/ssrProjectDemo/public
+2018-03-30 18:32:22,760 INFO 7175 [egg-security] use methodnoallow middleware
+2018-03-30 18:32:22,760 INFO 7175 [egg-security] use noopen middleware
+2018-03-30 18:32:22,761 INFO 7175 [egg-security] use nosniff middleware
+2018-03-30 18:32:22,761 INFO 7175 [egg-security] use xssProtection middleware
+2018-03-30 18:32:22,762 INFO 7175 [egg-security] use xframe middleware
+2018-03-30 18:32:22,762 INFO 7175 [egg-security] use dta middleware
+2018-03-30 18:32:22,762 INFO 7175 [egg-security] compose 6 middlewares into one security middleware
+2018-03-30 18:32:22,808 INFO 7175 [egg-watcher:app] watcher start success
+2018-03-30 18:32:22,810 INFO 7175 [egg-mysql] instance[0] status OK, rds currentTime: Fri Mar 30 2018 18:32:22 GMT+0800 (CST)
+2018-03-30 18:32:22,588 INFO 7176 [egg:logger] init all loggers with options: {"dir":"/Users/pengcheng/ssrProjectDemo/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"ssrProjectDemo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-03-30 18:32:22,645 INFO 7176 [egg-schedule]: register schedule /Users/pengcheng/ssrProjectDemo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-03-30 18:32:22,645 INFO 7176 [egg-schedule]: register schedule /Users/pengcheng/ssrProjectDemo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-03-30 18:32:22,656 INFO 7176 [egg-mysql] connecting root@localhost:3306/sharing
+2018-03-30 18:32:22,760 INFO 7176 [egg-static] starting static serve /public/ -> /Users/pengcheng/ssrProjectDemo/public
+2018-03-30 18:32:22,763 INFO 7176 [egg-security] use methodnoallow middleware
+2018-03-30 18:32:22,764 INFO 7176 [egg-security] use noopen middleware
+2018-03-30 18:32:22,764 INFO 7176 [egg-security] use nosniff middleware
+2018-03-30 18:32:22,765 INFO 7176 [egg-security] use xssProtection middleware
+2018-03-30 18:32:22,765 INFO 7176 [egg-security] use xframe middleware
+2018-03-30 18:32:22,765 INFO 7176 [egg-security] use dta middleware
+2018-03-30 18:32:22,765 INFO 7176 [egg-security] compose 6 middlewares into one security middleware
+2018-03-30 18:32:22,808 INFO 7176 [egg-watcher:app] watcher start success
+2018-03-30 18:32:22,812 INFO 7176 [egg-mysql] instance[0] status OK, rds currentTime: Fri Mar 30 2018 18:32:22 GMT+0800 (CST)
+2018-03-30 19:22:44,563 WARN 7171 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-30 19:22:44,562 WARN 7173 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-30 19:22:44,563 WARN 7175 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-30 19:22:44,563 WARN 7176 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-30 19:22:44,562 WARN 7174 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-30 19:53:37,991 WARN 7171 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-30 19:53:37,991 WARN 7169 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-30 19:53:37,991 WARN 7170 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-30 19:53:37,991 WARN 7173 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-30 19:53:37,992 WARN 7176 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-30 19:53:37,991 WARN 7175 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-30 20:24:31,932 WARN 7175 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-30 20:24:31,932 WARN 7170 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-30 20:24:31,933 WARN 7176 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-30 20:24:31,933 WARN 7173 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-30 20:24:31,933 WARN 7171 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-30 20:24:31,933 WARN 7172 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-30 20:56:56,857 WARN 7174 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-30 20:56:56,857 WARN 7171 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-30 20:56:56,857 WARN 7172 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-30 20:56:56,857 WARN 7175 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-30 21:43:50,803 WARN 7175 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-03-30 21:43:50,803 WARN 7175 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-30 21:43:50,803 WARN 7173 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-03-30 21:43:50,803 WARN 7173 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-30 21:43:50,803 WARN 7171 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-03-30 21:43:50,804 WARN 7171 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-30 21:43:50,803 WARN 7172 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-03-30 21:43:50,803 WARN 7172 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-30 21:43:50,802 WARN 7170 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-30 21:43:50,803 WARN 7174 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-03-30 21:43:50,803 WARN 7174 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-30 21:43:50,803 WARN 7169 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-03-30 21:43:50,803 WARN 7169 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-30 21:59:21,718 WARN 7175 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-03-30 21:59:21,719 WARN 7175 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-30 21:59:21,718 WARN 7176 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-03-30 21:59:21,720 WARN 7176 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-30 21:59:21,718 WARN 7171 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-03-30 21:59:21,720 WARN 7171 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-30 21:59:21,717 WARN 7173 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-03-30 21:59:21,717 WARN 7173 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-30 21:59:21,718 WARN 7174 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-03-30 21:59:21,719 WARN 7174 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-30 22:14:53,647 WARN 7170 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-30 22:14:53,647 WARN 7169 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-30 22:14:53,647 WARN 7174 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-30 22:14:53,647 WARN 7173 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-30 22:14:53,649 WARN 7171 [ClusterClient:Watcher] follower closed, and try to init it again
+handled data in the socket buffer
+2018-03-30 22:14:53,647 WARN 7172 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-30 22:30:48,571 WARN 7171 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-30 22:30:48,571 WARN 7170 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-30 22:30:48,570 WARN 7172 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-30 22:30:48,570 WARN 7176 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-30 22:30:48,570 WARN 7173 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-30 23:01:43,466 WARN 7172 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-30 23:01:43,467 WARN 7170 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-30 23:01:43,467 WARN 7173 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-30 23:01:43,466 WARN 7169 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-30 23:01:43,467 WARN 7176 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-30 23:01:43,467 WARN 7175 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-31 02:37:42,018 WARN 7170 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-31 02:37:42,019 WARN 7171 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-31 02:37:42,017 WARN 7169 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-31 02:37:42,018 WARN 7175 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-31 02:37:42,018 WARN 7173 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-31 02:37:42,018 WARN 7174 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-31 06:13:41,554 WARN 7169 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-03-31 06:13:41,580 WARN 7169 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-31 06:13:41,554 WARN 7172 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-03-31 06:13:41,582 WARN 7172 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-31 06:13:41,555 WARN 7170 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-03-31 06:13:41,583 WARN 7170 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-31 06:13:41,555 WARN 7171 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-03-31 06:13:41,583 WARN 7171 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-31 06:13:41,554 WARN 7173 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-03-31 06:13:41,580 WARN 7173 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-31 06:13:41,554 WARN 7175 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-03-31 06:13:41,582 WARN 7175 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-31 06:13:41,554 WARN 7174 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-03-31 06:13:41,582 WARN 7174 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-31 06:57:26,256 WARN 7169 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-31 06:57:26,256 WARN 7170 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-31 06:57:26,256 WARN 7174 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-31 06:57:26,256 WARN 7176 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-31 06:57:26,256 WARN 7173 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-31 06:57:26,256 WARN 7172 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-04-01 10:27:49,223 WARN 7169 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-04-01 10:27:49,223 WARN 7171 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-04-01 10:27:49,223 WARN 7172 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-04-01 10:27:49,223 WARN 7175 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-04-01 10:27:49,223 WARN 7173 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-04-01 11:02:43,668 WARN 7169 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-04-01 11:02:43,669 WARN 7169 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-04-01 11:02:43,669 WARN 7175 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-04-01 11:02:43,669 WARN 7175 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-04-01 11:02:43,669 WARN 7176 [ClusterClient:Watcher] follower closed, and try to init it again
+handled data in the socket buffer
+2018-04-01 11:02:43,670 WARN 7171 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-04-01 11:02:43,668 WARN 7173 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-04-01 11:02:43,668 WARN 7172 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-04-01 11:02:43,669 WARN 7172 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-04-01 11:33:38,043 WARN 7175 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-04-01 11:33:38,044 WARN 7171 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-04-01 11:33:38,043 WARN 7169 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-04-01 11:33:38,043 WARN 7172 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-04-01 11:33:38,043 WARN 7172 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-04-01 11:33:38,043 WARN 7170 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-04-01 11:33:38,043 WARN 7174 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-04-01 12:04:31,961 WARN 7171 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-04-01 12:04:31,962 WARN 7171 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-04-01 12:04:31,961 WARN 7175 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-04-01 12:04:31,961 WARN 7175 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-04-01 12:04:31,961 WARN 7174 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-04-01 12:04:31,961 WARN 7174 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-04-01 12:22:19,277 WARN 7172 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-04-01 12:22:19,278 WARN 7170 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-04-01 12:22:19,278 WARN 7174 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-04-01 12:22:19,277 WARN 7176 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-04-01 12:22:19,277 WARN 7169 [ClusterClient:Watcher] follower closed, and try to init it again

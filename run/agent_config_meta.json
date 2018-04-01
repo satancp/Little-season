@@ -1,0 +1,353 @@
+{
+  "siteFile": {
+    "/favicon.ico": "/Users/pengcheng/ssrProjectDemo/config/config.default.js"
+  },
+  "security": {
+    "csrf": {
+      "enable": "/Users/pengcheng/ssrProjectDemo/config/config.default.js",
+      "useSession": "/Users/pengcheng/ssrProjectDemo/node_modules/egg-security/config/config.default.js",
+      "ignoreJSON": "/Users/pengcheng/ssrProjectDemo/node_modules/egg-security/config/config.default.js",
+      "cookieName": "/Users/pengcheng/ssrProjectDemo/node_modules/egg-security/config/config.default.js",
+      "sessionName": "/Users/pengcheng/ssrProjectDemo/node_modules/egg-security/config/config.default.js",
+      "headerName": "/Users/pengcheng/ssrProjectDemo/node_modules/egg-security/config/config.default.js",
+      "bodyName": "/Users/pengcheng/ssrProjectDemo/node_modules/egg-security/config/config.default.js",
+      "queryName": "/Users/pengcheng/ssrProjectDemo/node_modules/egg-security/config/config.default.js"
+    },
+    "domainWhiteList": "/Users/pengcheng/ssrProjectDemo/config/config.local.js",
+    "protocolWhiteList": "/Users/pengcheng/ssrProjectDemo/node_modules/egg-security/config/config.default.js",
+    "defaultMiddleware": "/Users/pengcheng/ssrProjectDemo/node_modules/egg-security/config/config.default.js",
+    "xframe": {
+      "enable": "/Users/pengcheng/ssrProjectDemo/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/pengcheng/ssrProjectDemo/node_modules/egg-security/config/config.default.js"
+    },
+    "hsts": {
+      "enable": "/Users/pengcheng/ssrProjectDemo/node_modules/egg-security/config/config.local.js",
+      "maxAge": "/Users/pengcheng/ssrProjectDemo/node_modules/egg-security/config/config.default.js",
+      "includeSubdomains": "/Users/pengcheng/ssrProjectDemo/node_modules/egg-security/config/config.default.js"
+    },
+    "dta": {
+      "enable": "/Users/pengcheng/ssrProjectDemo/node_modules/egg-security/config/config.default.js"
+    },
+    "methodnoallow": {
+      "enable": "/Users/pengcheng/ssrProjectDemo/node_modules/egg-security/config/config.default.js"
+    },
+    "noopen": {
+      "enable": "/Users/pengcheng/ssrProjectDemo/node_modules/egg-security/config/config.default.js"
+    },
+    "nosniff": {
+      "enable": "/Users/pengcheng/ssrProjectDemo/node_modules/egg-security/config/config.default.js"
+    },
+    "referrerPolicy": {
+      "enable": "/Users/pengcheng/ssrProjectDemo/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/pengcheng/ssrProjectDemo/node_modules/egg-security/config/config.default.js"
+    },
+    "xssProtection": {
+      "enable": "/Users/pengcheng/ssrProjectDemo/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/pengcheng/ssrProjectDemo/node_modules/egg-security/config/config.default.js"
+    },
+    "csp": {
+      "enable": "/Users/pengcheng/ssrProjectDemo/node_modules/egg-security/config/config.default.js",
+      "policy": "/Users/pengcheng/ssrProjectDemo/node_modules/egg-security/config/config.default.js"
+    }
+  },
+  "static": {
+    "prefix": "/Users/pengcheng/ssrProjectDemo/config/config.default.js",
+    "dir": "/Users/pengcheng/ssrProjectDemo/config/config.default.js",
+    "maxAge": "/Users/pengcheng/ssrProjectDemo/config/config.local.js",
+    "dynamic": "/Users/pengcheng/ssrProjectDemo/node_modules/egg-static/config/config.default.js",
+    "preload": "/Users/pengcheng/ssrProjectDemo/node_modules/egg-static/config/config.default.js",
+    "buffer": "/Users/pengcheng/ssrProjectDemo/node_modules/egg-static/config/config.default.js",
+    "maxFiles": "/Users/pengcheng/ssrProjectDemo/node_modules/egg-static/config/config.default.js"
+  },
+  "logger": {
+    "consoleLevel": "/Users/pengcheng/ssrProjectDemo/config/config.default.js",
+    "dir": "/Users/pengcheng/ssrProjectDemo/config/config.default.js",
+    "encoding": "/Users/pengcheng/ssrProjectDemo/node_modules/egg/config/config.default.js",
+    "env": "/Users/pengcheng/ssrProjectDemo/node_modules/egg/config/config.default.js",
+    "level": "/Users/pengcheng/ssrProjectDemo/node_modules/egg/config/config.default.js",
+    "disableConsoleAfterReady": "/Users/pengcheng/ssrProjectDemo/node_modules/egg/config/config.default.js",
+    "outputJSON": "/Users/pengcheng/ssrProjectDemo/node_modules/egg/config/config.default.js",
+    "buffer": "/Users/pengcheng/ssrProjectDemo/node_modules/egg/config/config.default.js",
+    "appLogName": "/Users/pengcheng/ssrProjectDemo/node_modules/egg/config/config.default.js",
+    "coreLogName": "/Users/pengcheng/ssrProjectDemo/node_modules/egg/config/config.default.js",
+    "agentLogName": "/Users/pengcheng/ssrProjectDemo/node_modules/egg/config/config.default.js",
+    "errorLogName": "/Users/pengcheng/ssrProjectDemo/node_modules/egg/config/config.default.js",
+    "coreLogger": {
+      "consoleLevel": "/Users/pengcheng/ssrProjectDemo/node_modules/egg/config/config.local.js"
+    },
+    "allowDebugAtProd": "/Users/pengcheng/ssrProjectDemo/node_modules/egg/config/config.default.js"
+  },
+  "keys": "/Users/pengcheng/ssrProjectDemo/config/config.default.js",
+  "middleware": "/Users/pengcheng/ssrProjectDemo/config/config.default.js",
+  "mysql": {
+    "client": {
+      "host": "/Users/pengcheng/ssrProjectDemo/config/config.default.js",
+      "port": "/Users/pengcheng/ssrProjectDemo/config/config.default.js",
+      "user": "/Users/pengcheng/ssrProjectDemo/config/config.default.js",
+      "password": "/Users/pengcheng/ssrProjectDemo/config/config.default.js",
+      "database": "/Users/pengcheng/ssrProjectDemo/config/config.default.js"
+    },
+    "app": "/Users/pengcheng/ssrProjectDemo/config/config.default.js",
+    "agent": "/Users/pengcheng/ssrProjectDemo/config/config.default.js",
+    "default": {
+      "database": "/Users/pengcheng/ssrProjectDemo/node_modules/egg-mysql/config/config.default.js",
+      "connectionLimit": "/Users/pengcheng/ssrProjectDemo/node_modules/egg-mysql/config/config.default.js"
+    }
+  },
+  "development": {
+    "watchDirs": "/Users/pengcheng/ssrProjectDemo/config/config.local.js",
+    "ignoreDirs": "/Users/pengcheng/ssrProjectDemo/config/config.local.js",
+    "fastReady": "/Users/pengcheng/ssrProjectDemo/node_modules/egg-development/config/config.default.js",
+    "reloadOnDebug": "/Users/pengcheng/ssrProjectDemo/node_modules/egg-development/config/config.default.js",
+    "overrideDefault": "/Users/pengcheng/ssrProjectDemo/node_modules/egg-development/config/config.default.js"
+  },
+  "reactssr": {
+    "injectCss": "/Users/pengcheng/ssrProjectDemo/config/config.local.js",
+    "doctype": "/Users/pengcheng/ssrProjectDemo/node_modules/egg-view-react-ssr/config/config.default.js",
+    "layout": "/Users/pengcheng/ssrProjectDemo/node_modules/egg-view-react-ssr/config/config.default.js",
+    "manifest": "/Users/pengcheng/ssrProjectDemo/node_modules/egg-view-react-ssr/config/config.default.js",
+    "injectHeadRegex": "/Users/pengcheng/ssrProjectDemo/node_modules/egg-view-react-ssr/config/config.default.js",
+    "injectBodyRegex": "/Users/pengcheng/ssrProjectDemo/node_modules/egg-view-react-ssr/config/config.default.js",
+    "injectJs": "/Users/pengcheng/ssrProjectDemo/node_modules/egg-view-react-ssr/config/config.default.js",
+    "crossorigin": "/Users/pengcheng/ssrProjectDemo/node_modules/egg-view-react-ssr/config/config.default.js",
+    "injectRes": "/Users/pengcheng/ssrProjectDemo/node_modules/egg-view-react-ssr/config/config.default.js",
+    "fallbackToClient": "/Users/pengcheng/ssrProjectDemo/node_modules/egg-view-react-ssr/config/config.default.js",
+    "afterRender": "/Users/pengcheng/ssrProjectDemo/node_modules/egg-view-react-ssr/config/config.default.js"
+  },
+  "webpack": {
+    "webpackConfigList": "/Users/pengcheng/ssrProjectDemo/config/config.local.js",
+    "port": "/Users/pengcheng/ssrProjectDemo/node_modules/egg-webpack/config/config.default.js",
+    "proxy": "/Users/pengcheng/ssrProjectDemo/node_modules/egg-webpack/config/config.default.js",
+    "proxyMapping": {
+      "js": "/Users/pengcheng/ssrProjectDemo/node_modules/egg-webpack/config/config.default.js",
+      "css": "/Users/pengcheng/ssrProjectDemo/node_modules/egg-webpack/config/config.default.js",
+      "json": "/Users/pengcheng/ssrProjectDemo/node_modules/egg-webpack/config/config.default.js",
+      "html": "/Users/pengcheng/ssrProjectDemo/node_modules/egg-webpack/config/config.default.js",
+      "map": "/Users/pengcheng/ssrProjectDemo/node_modules/egg-webpack/config/config.default.js"
+    }
+  },
+  "session": {
+    "maxAge": "/Users/pengcheng/ssrProjectDemo/node_modules/egg-session/config/config.default.js",
+    "key": "/Users/pengcheng/ssrProjectDemo/node_modules/egg-session/config/config.default.js",
+    "httpOnly": "/Users/pengcheng/ssrProjectDemo/node_modules/egg-session/config/config.default.js",
+    "encrypt": "/Users/pengcheng/ssrProjectDemo/node_modules/egg-session/config/config.default.js"
+  },
+  "helper": {
+    "shtml": "/Users/pengcheng/ssrProjectDemo/node_modules/egg-security/config/config.default.js"
+  },
+  "jsonp": {
+    "limit": "/Users/pengcheng/ssrProjectDemo/node_modules/egg-jsonp/config/config.default.js",
+    "callback": "/Users/pengcheng/ssrProjectDemo/node_modules/egg-jsonp/config/config.default.js",
+    "csrf": "/Users/pengcheng/ssrProjectDemo/node_modules/egg-jsonp/config/config.default.js"
+  },
+  "onerror": {
+    "errorPageUrl": "/Users/pengcheng/ssrProjectDemo/node_modules/egg-onerror/config/config.default.js",
+    "appErrorFilter": "/Users/pengcheng/ssrProjectDemo/node_modules/egg-onerror/config/config.default.js"
+  },
+  "i18n": {
+    "defaultLocale": "/Users/pengcheng/ssrProjectDemo/node_modules/egg-i18n/config/config.default.js",
+    "dirs": "/Users/pengcheng/ssrProjectDemo/node_modules/egg-i18n/config/config.default.js",
+    "queryField": "/Users/pengcheng/ssrProjectDemo/node_modules/egg-i18n/config/config.default.js",
+    "cookieField": "/Users/pengcheng/ssrProjectDemo/node_modules/egg-i18n/config/config.default.js",
+    "cookieMaxAge": "/Users/pengcheng/ssrProjectDemo/node_modules/egg-i18n/config/config.default.js"
+  },
+  "watcher": {
+    "type": "/Users/pengcheng/ssrProjectDemo/node_modules/egg-watcher/config/config.local.js",
+    "eventSources": {
+      "default": "/Users/pengcheng/ssrProjectDemo/node_modules/egg-watcher/config/config.default.js",
+      "development": "/Users/pengcheng/ssrProjectDemo/node_modules/egg-watcher/config/config.default.js"
+    }
+  },
+  "multipart": {
+    "autoFields": "/Users/pengcheng/ssrProjectDemo/node_modules/egg-multipart/config/config.default.js",
+    "defaultCharset": "/Users/pengcheng/ssrProjectDemo/node_modules/egg-multipart/config/config.default.js",
+    "fieldNameSize": "/Users/pengcheng/ssrProjectDemo/node_modules/egg-multipart/config/config.default.js",
+    "fieldSize": "/Users/pengcheng/ssrProjectDemo/node_modules/egg-multipart/config/config.default.js",
+    "fields": "/Users/pengcheng/ssrProjectDemo/node_modules/egg-multipart/config/config.default.js",
+    "fileSize": "/Users/pengcheng/ssrProjectDemo/node_modules/egg-multipart/config/config.default.js",
+    "files": "/Users/pengcheng/ssrProjectDemo/node_modules/egg-multipart/config/config.default.js",
+    "fileExtensions": "/Users/pengcheng/ssrProjectDemo/node_modules/egg-multipart/config/config.default.js",
+    "whitelist": "/Users/pengcheng/ssrProjectDemo/node_modules/egg-multipart/config/config.default.js"
+  },
+  "customLogger": {
+    "scheduleLogger": {
+      "consoleLevel": "/Users/pengcheng/ssrProjectDemo/node_modules/egg-schedule/config/config.default.js",
+      "file": "/Users/pengcheng/ssrProjectDemo/node_modules/egg-schedule/config/config.default.js"
+    }
+  },
+  "logrotator": {
+    "filesRotateByHour": "/Users/pengcheng/ssrProjectDemo/node_modules/egg-logrotator/config/config.default.js",
+    "hourDelimiter": "/Users/pengcheng/ssrProjectDemo/node_modules/egg-logrotator/config/config.default.js",
+    "filesRotateBySize": "/Users/pengcheng/ssrProjectDemo/node_modules/egg-logrotator/config/config.default.js",
+    "maxFileSize": "/Users/pengcheng/ssrProjectDemo/node_modules/egg-logrotator/config/config.default.js",
+    "maxFiles": "/Users/pengcheng/ssrProjectDemo/node_modules/egg-logrotator/config/config.default.js",
+    "rotateDuration": "/Users/pengcheng/ssrProjectDemo/node_modules/egg-logrotator/config/config.default.js",
+    "maxDays": "/Users/pengcheng/ssrProjectDemo/node_modules/egg-logrotator/config/config.default.js"
+  },
+  "view": {
+    "root": "/Users/pengcheng/ssrProjectDemo/node_modules/egg-view/config/config.default.js",
+    "cache": "/Users/pengcheng/ssrProjectDemo/node_modules/egg-view/config/config.local.js",
+    "defaultExtension": "/Users/pengcheng/ssrProjectDemo/node_modules/egg-view/config/config.default.js",
+    "defaultViewEngine": "/Users/pengcheng/ssrProjectDemo/node_modules/egg-view/config/config.default.js",
+    "mapping": {
+      ".js": "/Users/pengcheng/ssrProjectDemo/node_modules/egg-view-react-ssr/config/config.default.js",
+      ".jsx": "/Users/pengcheng/ssrProjectDemo/node_modules/egg-view-react-ssr/config/config.default.js"
+    }
+  },
+  "cors": "/Users/pengcheng/ssrProjectDemo/node_modules/egg-cors/config/config.default.js",
+  "webpackreact": "/Users/pengcheng/ssrProjectDemo/node_modules/egg-webpack-react/config/config.default.js",
+  "env": "/Users/pengcheng/ssrProjectDemo/node_modules/egg/config/config.default.js",
+  "name": "/Users/pengcheng/ssrProjectDemo/node_modules/egg/config/config.default.js",
+  "proxy": "/Users/pengcheng/ssrProjectDemo/node_modules/egg/config/config.default.js",
+  "protocolHeaders": "/Users/pengcheng/ssrProjectDemo/node_modules/egg/config/config.default.js",
+  "ipHeaders": "/Users/pengcheng/ssrProjectDemo/node_modules/egg/config/config.default.js",
+  "hostHeaders": "/Users/pengcheng/ssrProjectDemo/node_modules/egg/config/config.default.js",
+  "pkg": {
+    "name": "/Users/pengcheng/ssrProjectDemo/node_modules/egg/config/config.default.js",
+    "version": "/Users/pengcheng/ssrProjectDemo/node_modules/egg/config/config.default.js",
+    "description": "/Users/pengcheng/ssrProjectDemo/node_modules/egg/config/config.default.js",
+    "scripts": {
+      "build": "/Users/pengcheng/ssrProjectDemo/node_modules/egg/config/config.default.js",
+      "build:test": "/Users/pengcheng/ssrProjectDemo/node_modules/egg/config/config.default.js",
+      "build:prod": "/Users/pengcheng/ssrProjectDemo/node_modules/egg/config/config.default.js",
+      "start": "/Users/pengcheng/ssrProjectDemo/node_modules/egg/config/config.default.js",
+      "start:test": "/Users/pengcheng/ssrProjectDemo/node_modules/egg/config/config.default.js",
+      "start:prod": "/Users/pengcheng/ssrProjectDemo/node_modules/egg/config/config.default.js",
+      "kill-port": "/Users/pengcheng/ssrProjectDemo/node_modules/egg/config/config.default.js",
+      "lint": "/Users/pengcheng/ssrProjectDemo/node_modules/egg/config/config.default.js",
+      "fix": "/Users/pengcheng/ssrProjectDemo/node_modules/egg/config/config.default.js",
+      "ii": "/Users/pengcheng/ssrProjectDemo/node_modules/egg/config/config.default.js"
+    },
+    "dependencies": {
+      "antd": "/Users/pengcheng/ssrProjectDemo/node_modules/egg/config/config.default.js",
+      "axios": "/Users/pengcheng/ssrProjectDemo/node_modules/egg/config/config.default.js",
+      "create-react-class": "/Users/pengcheng/ssrProjectDemo/node_modules/egg/config/config.default.js",
+      "draft-js": "/Users/pengcheng/ssrProjectDemo/node_modules/egg/config/config.default.js",
+      "egg": "/Users/pengcheng/ssrProjectDemo/node_modules/egg/config/config.default.js",
+      "egg-cors": "/Users/pengcheng/ssrProjectDemo/node_modules/egg/config/config.default.js",
+      "egg-logger": "/Users/pengcheng/ssrProjectDemo/node_modules/egg/config/config.default.js",
+      "egg-mysql": "/Users/pengcheng/ssrProjectDemo/node_modules/egg/config/config.default.js",
+      "egg-static": "/Users/pengcheng/ssrProjectDemo/node_modules/egg/config/config.default.js",
+      "egg-validate": "/Users/pengcheng/ssrProjectDemo/node_modules/egg/config/config.default.js",
+      "egg-view-react-ssr": "/Users/pengcheng/ssrProjectDemo/node_modules/egg/config/config.default.js",
+      "extend": "/Users/pengcheng/ssrProjectDemo/node_modules/egg/config/config.default.js",
+      "history": "/Users/pengcheng/ssrProjectDemo/node_modules/egg/config/config.default.js",
+      "hmacsha1": "/Users/pengcheng/ssrProjectDemo/node_modules/egg/config/config.default.js",
+      "js-base64": "/Users/pengcheng/ssrProjectDemo/node_modules/egg/config/config.default.js",
+      "lodash": "/Users/pengcheng/ssrProjectDemo/node_modules/egg/config/config.default.js",
+      "md5": "/Users/pengcheng/ssrProjectDemo/node_modules/egg/config/config.default.js",
+      "mockjs": "/Users/pengcheng/ssrProjectDemo/node_modules/egg/config/config.default.js",
+      "moment": "/Users/pengcheng/ssrProjectDemo/node_modules/egg/config/config.default.js",
+      "react": "/Users/pengcheng/ssrProjectDemo/node_modules/egg/config/config.default.js",
+      "react-color": "/Users/pengcheng/ssrProjectDemo/node_modules/egg/config/config.default.js",
+      "react-dom": "/Users/pengcheng/ssrProjectDemo/node_modules/egg/config/config.default.js",
+      "react-lz-editor": "/Users/pengcheng/ssrProjectDemo/node_modules/egg/config/config.default.js",
+      "react-redux": "/Users/pengcheng/ssrProjectDemo/node_modules/egg/config/config.default.js",
+      "react-router": "/Users/pengcheng/ssrProjectDemo/node_modules/egg/config/config.default.js",
+      "react-router-config": "/Users/pengcheng/ssrProjectDemo/node_modules/egg/config/config.default.js",
+      "react-router-dom": "/Users/pengcheng/ssrProjectDemo/node_modules/egg/config/config.default.js",
+      "react-router-redux": "/Users/pengcheng/ssrProjectDemo/node_modules/egg/config/config.default.js",
+      "redux": "/Users/pengcheng/ssrProjectDemo/node_modules/egg/config/config.default.js",
+      "stream-wormhole": "/Users/pengcheng/ssrProjectDemo/node_modules/egg/config/config.default.js"
+    },
+    "devDependencies": {
+      "autod-egg": "/Users/pengcheng/ssrProjectDemo/node_modules/egg/config/config.default.js",
+      "autoprefixer": "/Users/pengcheng/ssrProjectDemo/node_modules/egg/config/config.default.js",
+      "babel-plugin-add-module-exports": "/Users/pengcheng/ssrProjectDemo/node_modules/egg/config/config.default.js",
+      "babel-plugin-import": "/Users/pengcheng/ssrProjectDemo/node_modules/egg/config/config.default.js",
+      "babel-plugin-syntax-dynamic-import": "/Users/pengcheng/ssrProjectDemo/node_modules/egg/config/config.default.js",
+      "babel-plugin-transform-object-assign": "/Users/pengcheng/ssrProjectDemo/node_modules/egg/config/config.default.js",
+      "babel-plugin-transform-object-rest-spread": "/Users/pengcheng/ssrProjectDemo/node_modules/egg/config/config.default.js",
+      "babel-preset-env": "/Users/pengcheng/ssrProjectDemo/node_modules/egg/config/config.default.js",
+      "babel-preset-react": "/Users/pengcheng/ssrProjectDemo/node_modules/egg/config/config.default.js",
+      "cross-env": "/Users/pengcheng/ssrProjectDemo/node_modules/egg/config/config.default.js",
+      "easywebpack-cli": "/Users/pengcheng/ssrProjectDemo/node_modules/egg/config/config.default.js",
+      "easywebpack-react": "/Users/pengcheng/ssrProjectDemo/node_modules/egg/config/config.default.js",
+      "egg-webpack": "/Users/pengcheng/ssrProjectDemo/node_modules/egg/config/config.default.js",
+      "egg-webpack-react": "/Users/pengcheng/ssrProjectDemo/node_modules/egg/config/config.default.js",
+      "eslint-config-egg": "/Users/pengcheng/ssrProjectDemo/node_modules/egg/config/config.default.js",
+      "eslint-plugin-react": "/Users/pengcheng/ssrProjectDemo/node_modules/egg/config/config.default.js",
+      "html-webpack-plugin": "/Users/pengcheng/ssrProjectDemo/node_modules/egg/config/config.default.js",
+      "imagemin-webpack-plugin": "/Users/pengcheng/ssrProjectDemo/node_modules/egg/config/config.default.js",
+      "ip": "/Users/pengcheng/ssrProjectDemo/node_modules/egg/config/config.default.js",
+      "uglifyjs-webpack-plugin": "/Users/pengcheng/ssrProjectDemo/node_modules/egg/config/config.default.js"
+    },
+    "engines": {
+      "node": "/Users/pengcheng/ssrProjectDemo/node_modules/egg/config/config.default.js"
+    },
+    "ci": {
+      "version": "/Users/pengcheng/ssrProjectDemo/node_modules/egg/config/config.default.js"
+    },
+    "repository": {
+      "type": "/Users/pengcheng/ssrProjectDemo/node_modules/egg/config/config.default.js",
+      "url": "/Users/pengcheng/ssrProjectDemo/node_modules/egg/config/config.default.js"
+    },
+    "author": "/Users/pengcheng/ssrProjectDemo/node_modules/egg/config/config.default.js",
+    "license": "/Users/pengcheng/ssrProjectDemo/node_modules/egg/config/config.default.js",
+    "homepage": "/Users/pengcheng/ssrProjectDemo/node_modules/egg/config/config.default.js"
+  },
+  "baseDir": "/Users/pengcheng/ssrProjectDemo/node_modules/egg/config/config.default.js",
+  "HOME": "/Users/pengcheng/ssrProjectDemo/node_modules/egg/config/config.default.js",
+  "rundir": "/Users/pengcheng/ssrProjectDemo/node_modules/egg/config/config.default.js",
+  "dump": {
+    "ignore": "/Users/pengcheng/ssrProjectDemo/node_modules/egg/config/config.default.js"
+  },
+  "confusedConfigurations": {
+    "bodyparser": "/Users/pengcheng/ssrProjectDemo/node_modules/egg/config/config.default.js",
+    "notFound": "/Users/pengcheng/ssrProjectDemo/node_modules/egg/config/config.default.js",
+    "sitefile": "/Users/pengcheng/ssrProjectDemo/node_modules/egg/config/config.default.js",
+    "middlewares": "/Users/pengcheng/ssrProjectDemo/node_modules/egg/config/config.default.js",
+    "httpClient": "/Users/pengcheng/ssrProjectDemo/node_modules/egg/config/config.default.js"
+  },
+  "notfound": {
+    "pageUrl": "/Users/pengcheng/ssrProjectDemo/node_modules/egg/config/config.default.js"
+  },
+  "bodyParser": {
+    "enable": "/Users/pengcheng/ssrProjectDemo/node_modules/egg/config/config.default.js",
+    "encoding": "/Users/pengcheng/ssrProjectDemo/node_modules/egg/config/config.default.js",
+    "formLimit": "/Users/pengcheng/ssrProjectDemo/node_modules/egg/config/config.default.js",
+    "jsonLimit": "/Users/pengcheng/ssrProjectDemo/node_modules/egg/config/config.default.js",
+    "strict": "/Users/pengcheng/ssrProjectDemo/node_modules/egg/config/config.default.js",
+    "queryString": {
+      "arrayLimit": "/Users/pengcheng/ssrProjectDemo/node_modules/egg/config/config.default.js",
+      "depth": "/Users/pengcheng/ssrProjectDemo/node_modules/egg/config/config.default.js",
+      "parameterLimit": "/Users/pengcheng/ssrProjectDemo/node_modules/egg/config/config.default.js"
+    }
+  },
+  "httpclient": {
+    "enableDNSCache": "/Users/pengcheng/ssrProjectDemo/node_modules/egg/config/config.default.js",
+    "dnsCacheMaxLength": "/Users/pengcheng/ssrProjectDemo/node_modules/egg/config/config.default.js",
+    "dnsCacheMaxAge": "/Users/pengcheng/ssrProjectDemo/node_modules/egg/config/config.default.js",
+    "request": {
+      "timeout": "/Users/pengcheng/ssrProjectDemo/node_modules/egg/config/config.default.js"
+    },
+    "httpAgent": {
+      "keepAlive": "/Users/pengcheng/ssrProjectDemo/node_modules/egg/config/config.default.js",
+      "freeSocketKeepAliveTimeout": "/Users/pengcheng/ssrProjectDemo/node_modules/egg/config/config.default.js",
+      "maxSockets": "/Users/pengcheng/ssrProjectDemo/node_modules/egg/config/config.default.js",
+      "maxFreeSockets": "/Users/pengcheng/ssrProjectDemo/node_modules/egg/config/config.default.js"
+    },
+    "httpsAgent": {
+      "keepAlive": "/Users/pengcheng/ssrProjectDemo/node_modules/egg/config/config.default.js",
+      "freeSocketKeepAliveTimeout": "/Users/pengcheng/ssrProjectDemo/node_modules/egg/config/config.default.js",
+      "maxSockets": "/Users/pengcheng/ssrProjectDemo/node_modules/egg/config/config.default.js",
+      "maxFreeSockets": "/Users/pengcheng/ssrProjectDemo/node_modules/egg/config/config.default.js"
+    }
+  },
+  "meta": {
+    "enable": "/Users/pengcheng/ssrProjectDemo/node_modules/egg/config/config.default.js",
+    "logging": "/Users/pengcheng/ssrProjectDemo/node_modules/egg/config/config.default.js"
+  },
+  "coreMiddleware": "/Users/pengcheng/ssrProjectDemo/node_modules/egg/config/config.default.js",
+  "workerStartTimeout": "/Users/pengcheng/ssrProjectDemo/node_modules/egg/config/config.default.js",
+  "cluster": {
+    "listen": {
+      "path": "/Users/pengcheng/ssrProjectDemo/node_modules/egg/config/config.default.js",
+      "port": "/Users/pengcheng/ssrProjectDemo/node_modules/egg/config/config.default.js",
+      "hostname": "/Users/pengcheng/ssrProjectDemo/node_modules/egg/config/config.default.js"
+    }
+  },
+  "clusterClient": {
+    "responseTimeout": "/Users/pengcheng/ssrProjectDemo/node_modules/egg/config/config.default.js"
+  }
+}

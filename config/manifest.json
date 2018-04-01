@@ -1,0 +1,106 @@
+{
+  "resource/add.js": "/public/js/resource/add.js",
+  "resource/add.css": "/public/css/resource/add.css",
+  "user/list.js": "/public/js/user/list.js",
+  "user/list.css": "/public/css/user/list.css",
+  "resource/list.js": "/public/js/resource/list.js",
+  "resource/list.css": "/public/css/resource/list.css",
+  "user/add.js": "/public/js/user/add.js",
+  "user/add.css": "/public/css/user/add.css",
+  "user/edit.js": "/public/js/user/edit.js",
+  "user/edit.css": "/public/css/user/edit.css",
+  "home/home.js": "/public/js/home/home.js",
+  "home/home.css": "/public/css/home/home.css",
+  "layout.js": "/public/js/layout.js",
+  "common.js": "/public/js/common.js",
+  "vendor.js": "/public/js/vendor.js",
+  "deps": {
+    "resource/add.js": {
+      "js": [
+        "/public/js/vendor.js",
+        "/public/js/common.js",
+        "/public/js/resource/add.js"
+      ],
+      "css": [
+        "/public/css/resource/add.css"
+      ]
+    },
+    "user/list.js": {
+      "js": [
+        "/public/js/vendor.js",
+        "/public/js/common.js",
+        "/public/js/user/list.js"
+      ],
+      "css": [
+        "/public/css/user/list.css"
+      ]
+    },
+    "resource/list.js": {
+      "js": [
+        "/public/js/vendor.js",
+        "/public/js/common.js",
+        "/public/js/resource/list.js"
+      ],
+      "css": [
+        "/public/css/resource/list.css"
+      ]
+    },
+    "user/add.js": {
+      "js": [
+        "/public/js/vendor.js",
+        "/public/js/common.js",
+        "/public/js/user/add.js"
+      ],
+      "css": [
+        "/public/css/user/add.css"
+      ]
+    },
+    "user/edit.js": {
+      "js": [
+        "/public/js/vendor.js",
+        "/public/js/common.js",
+        "/public/js/user/edit.js"
+      ],
+      "css": [
+        "/public/css/user/edit.css"
+      ]
+    },
+    "home/home.js": {
+      "js": [
+        "/public/js/vendor.js",
+        "/public/js/common.js",
+        "/public/js/home/home.js"
+      ],
+      "css": [
+        "/public/css/home/home.css"
+      ]
+    },
+    "layout.js": {
+      "js": [
+        "/public/js/vendor.js",
+        "/public/js/common.js",
+        "/public/js/layout.js"
+      ],
+      "css": []
+    },
+    "common.js": {
+      "js": [
+        "/public/js/common.js",
+        "/public/js/common.js"
+      ],
+      "css": []
+    },
+    "vendor.js": {
+      "js": [
+        "/public/js/common.js",
+        "/public/js/vendor.js"
+      ],
+      "css": []
+    }
+  },
+  "info": {
+    "publicPath": "/public/",
+    "buildPath": "public",
+    "mapped": true
+  }
+}

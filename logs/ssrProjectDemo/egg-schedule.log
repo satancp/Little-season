@@ -1,0 +1,16 @@
+2018-03-23 17:27:22,162 INFO 60144 [Timer] /Users/pengcheng/ssrProjectDemo/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute at 2018-03-24 00:00:00.000
+2018-03-23 17:27:22,163 INFO 60144 [Timer] /Users/pengcheng/ssrProjectDemo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute at 2018-03-24 00:00:01.000
+2018-03-23 18:22:18,469 INFO 60780 [Timer] /Users/pengcheng/ssrProjectDemo/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute at 2018-03-24 00:00:00.000
+2018-03-23 18:22:18,469 INFO 60780 [Timer] /Users/pengcheng/ssrProjectDemo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute at 2018-03-24 00:00:01.000
+2018-03-23 18:24:02,798 INFO 60817 [Timer] /Users/pengcheng/ssrProjectDemo/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute at 2018-03-24 00:00:00.000
+2018-03-23 18:24:02,799 INFO 60817 [Timer] /Users/pengcheng/ssrProjectDemo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute at 2018-03-24 00:00:01.000
+2018-03-23 18:26:26,146 INFO 60860 [Timer] /Users/pengcheng/ssrProjectDemo/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute at 2018-03-24 00:00:00.000
+2018-03-23 18:26:26,147 INFO 60860 [Timer] /Users/pengcheng/ssrProjectDemo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute at 2018-03-24 00:00:01.000
+2018-03-26 09:34:37,071 INFO 61406 [Timer] /Users/pengcheng/ssrProjectDemo/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute at 2018-03-27 00:00:00.000
+2018-03-26 09:34:37,072 INFO 61406 [Timer] /Users/pengcheng/ssrProjectDemo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute at 2018-03-27 00:00:01.000
+2018-03-28 21:37:42,501 INFO 12270 [Timer] /Users/pengcheng/ssrProjectDemo/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute at 2018-03-29 00:00:00.000
+2018-03-28 21:37:42,502 INFO 12270 [Timer] /Users/pengcheng/ssrProjectDemo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute at 2018-03-29 00:00:01.000
+2018-03-28 21:48:04,545 INFO 12483 [Timer] /Users/pengcheng/ssrProjectDemo/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute at 2018-03-29 00:00:00.000
+2018-03-28 21:48:04,546 INFO 12483 [Timer] /Users/pengcheng/ssrProjectDemo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute at 2018-03-29 00:00:01.000
+2018-03-30 18:32:22,828 INFO 7168 [Timer] /Users/pengcheng/ssrProjectDemo/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute at 2018-03-31 00:00:00.000
+2018-03-30 18:32:22,828 INFO 7168 [Timer] /Users/pengcheng/ssrProjectDemo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute at 2018-03-31 00:00:01.000
